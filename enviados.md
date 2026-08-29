@@ -22,3 +22,9 @@
 | 28/08/2026 | @deportivasannicolas_ | Tienda Deportiva San Nicolás — indumentaria deportiva, San Nicolás |
 | 28/08/2026 | @joyeria_elixir | Joyería Elixir — joyería/relojería, San Nicolás |
 | 28/08/2026 | @muebles.san.nicolas | Muebles San Nicolás — mueblería, San Nicolás |
+| 29/08/2026 | @estudiostelzer | Stelzer y Asoc. Abogados — estudio jurídico, San Nicolás |
+| 29/08/2026 | @reinamora.sn | Reina Mora Eventos y Fiestas — salón de eventos, San Nicolás |
+| 29/08/2026 | @floreriaoasis | Florería Oasis — florería/decoración de eventos, San Nicolás |
+| 29/08/2026 | @pelokitos_sn | Pelokitos SN (Leo y Gii) — peluquería infantil, San Nicolás |
+| 29/08/2026 | @bostonturismosn | Boston Turismo — agencia de viajes, San Nicolás |
+| 29/08/2026 | @pilatesmil.sn | Pilates Mil — estudio de pilates reformer, San Nicolás |
