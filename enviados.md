@@ -28,3 +28,11 @@
 | 29/08/2026 | @pelokitos_sn | Pelokitos SN (Leo y Gii) — peluquería infantil, San Nicolás |
 | 29/08/2026 | @bostonturismosn | Boston Turismo — agencia de viajes, San Nicolás |
 | 29/08/2026 | @pilatesmil.sn | Pilates Mil — estudio de pilates reformer, San Nicolás |
+| 30/08/2026 | @thermec.s.r.l | Thermec S.R.L. — climatización/calefacción central, San Nicolás |
+| 30/08/2026 | @pablos.zapateria | Pablo's Zapatería — calzado femenino, San Nicolás |
+| 30/08/2026 | @inmobiliaria_fincas | Inmobiliaria Fincas — inmobiliaria, San Nicolás |
+| 30/08/2026 | @violeta.dance_estudio_sn | Violeta Dance Estudio — academia de danza, San Nicolás |
+| 30/08/2026 | @chisasushi | Chisa Figón Asiático (Chisa Sushi) — gastronomía/sushi, San Nicolás |
+| 30/08/2026 | @fontanapeluquerias | Fontana Peluquería — peluquería especializada, San Nicolás |
+| 30/08/2026 | @englishstudiosn | English Studio — instituto de inglés, San Nicolás |
+| 30/08/2026 | @viapizzarestaurante | Vía Pizza — pizzería tradicional, San Nicolás |
