@@ -41,3 +41,13 @@
 | 31/08/2026 | @ortodonciacentro.sn | Ortodoncia Centro San Nicolás (Dra. Turchetti) — ortodoncia, San Nicolás |
 | 31/08/2026 | @cecardiovascular | CEC Cardiovascular — salud/cardiología, San Nicolás |
 | 31/08/2026 | @samuraisushi_sn | Sushi SN — gastronomía/delivery de sushi, San Nicolás |
+| 31/08/2026 | @bringerisannicolas | Bringeri San Nicolás — electrodomésticos y línea blanca, San Nicolás |
+| 31/08/2026 | @latorre_panaderiayconfiteria | La Torre Panadería y Confitería — gastronomía/panadería, San Nicolás |
+| 31/08/2026 | @vetsannicolas | Veterina San Nicolás — veterinaria, San Nicolás |
+| 31/08/2026 | @grafica.sannicolas | Industrias Gráficas San Nicolás S.A. — imprenta/gráfica, San Nicolás |
+| 31/08/2026 | @arroyo_arquitectos | Arroyo Arquitectos — estudio de arquitectura y diseño de interiores, San Nicolás |
+| 31/08/2026 | @nailsstore_sn | Nails Store — estética de uñas/pestañas/cejas, San Nicolás |
+| 31/08/2026 | @inmortaltatto | Inmortal Tattoo Club — estudio de tatuajes y piercings, San Nicolás |
+| 31/08/2026 | @elgurisn | Transporte y Mudanzas El Gurí — mudanzas y cargas, San Nicolás |
+| 31/08/2026 | @nicolasviverosan | Vivero San Nicolás — vivero/jardinería, San Nicolás |
+| 31/08/2026 | @tarjelandiacotillon | Tarjelandia Cotillón — cotillón y artículos de fiesta, San Nicolás |
