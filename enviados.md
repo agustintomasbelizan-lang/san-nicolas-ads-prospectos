@@ -36,3 +36,8 @@
 | 30/08/2026 | @fontanapeluquerias | Fontana Peluquería — peluquería especializada, San Nicolás |
 | 30/08/2026 | @englishstudiosn | English Studio — instituto de inglés, San Nicolás |
 | 30/08/2026 | @viapizzarestaurante | Vía Pizza — pizzería tradicional, San Nicolás |
+| 31/08/2026 | @performance.center.sn | Neumáticos Performance Center — gomería/neumáticos y alineación, San Nicolás |
+| 31/08/2026 | @centrooftalmologicosn | Centro Oftalmológico SN — salud/oftalmología, San Nicolás |
+| 31/08/2026 | @ortodonciacentro.sn | Ortodoncia Centro San Nicolás (Dra. Turchetti) — ortodoncia, San Nicolás |
+| 31/08/2026 | @cecardiovascular | CEC Cardiovascular — salud/cardiología, San Nicolás |
+| 31/08/2026 | @samuraisushi_sn | Sushi SN — gastronomía/delivery de sushi, San Nicolás |
