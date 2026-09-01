@@ -51,3 +51,13 @@
 | 31/08/2026 | @elgurisn | Transporte y Mudanzas El Gurí — mudanzas y cargas, San Nicolás |
 | 31/08/2026 | @nicolasviverosan | Vivero San Nicolás — vivero/jardinería, San Nicolás |
 | 31/08/2026 | @tarjelandiacotillon | Tarjelandia Cotillón — cotillón y artículos de fiesta, San Nicolás |
+| 01/09/2026 | @denart_sn | DENART Instituto Odontológico — odontología/estética dental, San Nicolás |
+| 01/09/2026 | @mateucciabogadosycontadores | Mateucci Abogados y Contadores — estudio jurídico-contable, San Nicolás y Ramallo |
+| 01/09/2026 | @fuoco.hombres | Fuoco — indumentaria masculina e infantil, San Nicolás |
+| 01/09/2026 | @pastelsannicolas | Pastelería San Nicolás (La Aldea) — gastronomía/pastelería, San Nicolás |
+| 01/09/2026 | @baltocafe_ | BALTO Café de Especialidad — gastronomía/cafetería, San Nicolás |
+| 01/09/2026 | @pintureriasannicolas | Pinturería San Nicolás — pinturería, San Nicolás y Ramallo |
+| 01/09/2026 | @libreriajugueteriasanmartin | Librería y Juguetería San Martín — librería/papelería, San Nicolás |
+| 01/09/2026 | @los.reyes.del.colchon | Los Reyes del Colchón — colchonería, San Nicolás (y Zárate/Campana/Lima) |
+| 01/09/2026 | @gimnasiocombativo | Combativo Boxing Gym — gimnasio de boxeo, San Nicolás |
+| 01/09/2026 | @dionisio.winehouse | Dionisio WineHouse — vinoteca, San Nicolás |
