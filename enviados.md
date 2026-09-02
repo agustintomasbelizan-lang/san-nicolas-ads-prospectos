@@ -61,3 +61,13 @@
 | 01/09/2026 | @los.reyes.del.colchon | Los Reyes del Colchón — colchonería, San Nicolás (y Zárate/Campana/Lima) |
 | 01/09/2026 | @gimnasiocombativo | Combativo Boxing Gym — gimnasio de boxeo, San Nicolás |
 | 01/09/2026 | @dionisio.winehouse | Dionisio WineHouse — vinoteca, San Nicolás |
+| 02/09/2026 | @corralonsannicolas | Corralón San Nicolás — materiales de construcción, San Nicolás |
+| 02/09/2026 | @modestobike_sn | Bicicletas a tu Alcance — bicicletería, San Nicolás |
+| 02/09/2026 | @tapiceriavelazquez | Tapicería Velázquez SA — tapicería/decoración, San Nicolás |
+| 02/09/2026 | @joyeriaaguamarina.sannicolas | Grassini Joyería Relojería (ex Joyería Aguamarina) — joyería/relojería, San Nicolás |
+| 02/09/2026 | @farmaciarroyos | Farmacia de los Arroyos — farmacia/perfumería/herboristería, San Nicolás |
+| 02/09/2026 | @tierradesuenos.sn | Tierra de Sueños — salón de fiestas y eventos, San Nicolás |
+| 02/09/2026 | @elegancia_ramallo | Elegancia Deportiva Sonder — indumentaria deportiva, Ramallo |
+| 02/09/2026 | @inmobiliaria.ostoich | Inmobiliaria Ostoich — inmobiliaria, San Pedro |
+| 02/09/2026 | @grupokimed | Grupo KiMed — kinesiología y medicina física, San Nicolás |
+| 02/09/2026 | @sannicolas.saludmental | Clínica San Nicolás Salud Mental — psiquiatría/psicología, San Nicolás |
