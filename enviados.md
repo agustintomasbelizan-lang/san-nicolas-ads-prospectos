@@ -71,3 +71,13 @@
 | 02/09/2026 | @inmobiliaria.ostoich | Inmobiliaria Ostoich — inmobiliaria, San Pedro |
 | 02/09/2026 | @grupokimed | Grupo KiMed — kinesiología y medicina física, San Nicolás |
 | 02/09/2026 | @sannicolas.saludmental | Clínica San Nicolás Salud Mental — psiquiatría/psicología, San Nicolás |
+| 03/09/2026 | @ferreterianortesn | FerreteriaNorte — ferretería/materiales, San Nicolás |
+| 03/09/2026 | @aberturasalberdi | Aberturas Alberdi — aberturas de aluminio y PVC, San Nicolás |
+| 03/09/2026 | @pequekids.guarderia | PequeKids Guardería — jardín maternal, San Nicolás |
+| 03/09/2026 | @atmsannicolas | ATM Seguros San Nicolás — productor de seguros, San Nicolás |
+| 03/09/2026 | @oscasancomex | OSCASAN S.A. Comercio Internacional — despachante de aduana/comex, San Nicolás |
+| 03/09/2026 | @belemelaboratorio | Beleme Laboratorio — análisis clínicos, San Nicolás |
+| 03/09/2026 | @ortopedia_promedic | Ortopedia Promedic — ortopedia y traumatología, San Nicolás y Villa Constitución |
+| 03/09/2026 | @cfmotosannicolas | CF Moto San Nicolás — concesionario oficial de motos, San Nicolás |
+| 03/09/2026 | @sciarresirepuestos | Sciarresi Repuestos — repuestos automotor, San Nicolás y Villa Constitución |
+| 03/09/2026 | @abraxas.sn | Abraxas — impresión gran formato/gráfica, San Nicolás |
