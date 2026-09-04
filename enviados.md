@@ -81,3 +81,13 @@
 | 03/09/2026 | @cfmotosannicolas | CF Moto San Nicolás — concesionario oficial de motos, San Nicolás |
 | 03/09/2026 | @sciarresirepuestos | Sciarresi Repuestos — repuestos automotor, San Nicolás y Villa Constitución |
 | 03/09/2026 | @abraxas.sn | Abraxas — impresión gran formato/gráfica, San Nicolás |
+| 04/09/2026 | @celulares.sannicolas | Celulares San Nicolás — venta y service técnico de celulares, San Nicolás |
+| 04/09/2026 | @mundocelulars.a | Mundo Celular S.A. — accesorios de tecnología, San Nicolás |
+| 04/09/2026 | @studioabadph | Estudio Fotográfico Abad — fotografía gastronómica/producto, San Nicolás |
+| 04/09/2026 | @_thelittlesweet_ | Regalos y Detalles — regalería personalizada, San Nicolás |
+| 04/09/2026 | @ellimar_sannicolas | Ellimar SN — mercería y retacería, San Nicolás |
+| 04/09/2026 | @rodriguez.muebles | Rodriguez Muebles S.R.L. — carpintería y muebles a medida, San Nicolás |
+| 04/09/2026 | @heladeriagracielita | Heladería Gracielita — heladería artesanal, San Pedro |
+| 04/09/2026 | @sannicolasherreria | Herrería San Nicolás — herrería artística y de obra, San Nicolás |
+| 04/09/2026 | @smr.ramallo | Servicios Multirubros Ramallo — áridos y alquiler de maquinaria vial, Ramallo |
+| 04/09/2026 | @aluminiossannicolas | Aluminios San Nicolás — carpintería de aluminio y vidriería, San Nicolás |
