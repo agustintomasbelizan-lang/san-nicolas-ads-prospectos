@@ -28,3 +28,13 @@
 | 29/08/2026 | @pelokitos_sn | Pelokitos SN (Leo y Gii) — peluquería infantil, San Nicolás |
 | 29/08/2026 | @bostonturismosn | Boston Turismo — agencia de viajes, San Nicolás |
 | 29/08/2026 | @pilatesmil.sn | Pilates Mil — estudio de pilates reformer, San Nicolás |
+| 05/09/2026 | @englishstudiosn | English Studio San Nicolás — academia de inglés, San Nicolás |
+| 05/09/2026 | @sanitariosannicolas | Sanitarios San Nicolás — grifería/sanitarios/materiales, San Nicolás |
+| 05/09/2026 | @ortodonciacentro.sn | Ortodoncia Centro San Nicolás (Dra. Turchetti) — salud dental/ortodoncia, San Nicolás |
+| 05/09/2026 | @violeta.dance_estudio_sn | Violeta Dance Estudio — academia de danza, San Nicolás |
+| 05/09/2026 | @centrooftalmologicosn | Centro Oftalmológico SN — salud/oftalmología, San Nicolás |
+| 05/09/2026 | @elegancia_ramallo | Elegancia Deportiva Sonder — indumentaria deportiva, Ramallo |
+| 05/09/2026 | @talle_rmg | Taller Mecánico MG — service multimarcas, San Nicolás |
+| 05/09/2026 | @nails_spa_salon_san_nicolas | Uñas Spa & Salón San Nicolás — estética/uñas, San Nicolás |
+| 05/09/2026 | @cmivilla_constitucion | Centro Médico Integral — salud, Villa Constitución |
+| 05/09/2026 | @bonoautoescuela | Bono Autoescuela — escuela de manejo, San Nicolás |
