@@ -38,3 +38,13 @@
 | 05/09/2026 | @nails_spa_salon_san_nicolas | Uñas Spa & Salón San Nicolás — estética/uñas, San Nicolás |
 | 05/09/2026 | @cmivilla_constitucion | Centro Médico Integral — salud, Villa Constitución |
 | 05/09/2026 | @bonoautoescuela | Bono Autoescuela — escuela de manejo, San Nicolás |
+| 06/09/2026 | @corralonsannicolas | Corralón San Nicolás — materiales de construcción, San Nicolás |
+| 06/09/2026 | @mc_seguros1 | MC Seguros — productor asesor de seguros, San Nicolás |
+| 06/09/2026 | @nicolasviverosan | Vivero San Nicolás — vivero/plantas y jardinería, San Nicolás |
+| 06/09/2026 | @elgurisn | Transporte y Mudanzas El Gurí — mudanzas/fletes, San Nicolás |
+| 06/09/2026 | @farmaciarroyos | Farmacia de los Arroyos — farmacia/perfumería/herboristería, San Nicolás |
+| 06/09/2026 | @ensueno.colchoneria | Colchonería Ensueño — colchones y sommiers, San Nicolás |
+| 06/09/2026 | @stinmobiliariasanpedro | ST Inmobiliaria — inmobiliaria rural y urbana, San Pedro |
+| 06/09/2026 | @cafesannicolas | Café San Nicolás — cafetería, San Nicolás |
+| 06/09/2026 | @ramallo_garage | Ramallo Garage (Martín Morilla) — venta de autos nuevos y usados, Ramallo |
+| 06/09/2026 | @joyeriaaguamarina.sannicolas | Grassini Joyería Relojería (ex Aguamarina) — joyería/relojería, San Nicolás |
