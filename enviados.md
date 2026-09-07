@@ -48,3 +48,13 @@
 | 06/09/2026 | @cafesannicolas | Café San Nicolás — cafetería, San Nicolás |
 | 06/09/2026 | @ramallo_garage | Ramallo Garage (Martín Morilla) — venta de autos nuevos y usados, Ramallo |
 | 06/09/2026 | @joyeriaaguamarina.sannicolas | Grassini Joyería Relojería (ex Aguamarina) — joyería/relojería, San Nicolás |
+| 07/09/2026 | @grafi_ar | Grafiar — imprenta/gráfica, San Nicolás |
+| 07/09/2026 | @thermec.s.r.l | Thermec S.R.L. — climatización/calefacción, San Nicolás |
+| 07/09/2026 | @studioabadph | Estudio Fotográfico Abad — fotografía, San Nicolás |
+| 07/09/2026 | @sanicanvet | Clínica Veterinaria Sanican Petshop — veterinaria/petshop, San Nicolás |
+| 07/09/2026 | @libreriajugueteriasanmartin | Librería y Juguetería San Martín — librería/juguetería, San Nicolás |
+| 07/09/2026 | @kravmagasannicolas | Krav Maga San Nicolás de los Arroyos — defensa personal/fitness, San Nicolás |
+| 07/09/2026 | @santino.parrillavcp | Santino Parrilla Restaurante — gastronomía/parrilla, Villa Constitución |
+| 07/09/2026 | @lasrufinas_almacen | Las Rufinas — indumentaria y accesorios, Ramallo |
+| 07/09/2026 | @jor.estetica | JOR Estética — centro de estética integral, San Nicolás |
+| 07/09/2026 | @denart_sn | Denart Instituto Odontológico — salud dental, San Nicolás |
