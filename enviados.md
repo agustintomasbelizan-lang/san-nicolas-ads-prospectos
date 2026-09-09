@@ -117,3 +117,13 @@
 | 08/09/2026 | @agrogreen_sn | Agrogreen — piletas de natación (venta/instalación), San Nicolás |
 | 08/09/2026 | @brendy.masajes | Brendy Masajes (Bren Quiroga) — centro de masajes/relax, San Nicolás |
 | 08/09/2026 | @carwashsannicolas | Car Wash San Nicolás — lavadero premium/detailing, San Nicolás |
+| 09/09/2026 | @lamira.sn | La Mira — restó-bar (desayuno a trasnoche), San Nicolás |
+| 09/09/2026 | @mascotienda.sn | Masco Tienda San Nicolás — tienda de mascotas, San Nicolás |
+| 09/09/2026 | @luisina.peluqueria.sn | Luisina Peluquería — peluquería/coloración, San Nicolás |
+| 09/09/2026 | @7.fuegos | 7 Fuegos — gastronomía/hamburguesería, Ramallo |
+| 09/09/2026 | @parrillacarlosquinto | Carlos V Parrilla — parrilla/pescado de río, San Pedro |
+| 09/09/2026 | @indoorbike.sn | Spinning Indoor Bike (Lega Clas) — estudio de spinning, San Nicolás |
+| 09/09/2026 | @eltanque.sn | El Tanque — parrilla/patio de comidas, San Nicolás |
+| 09/09/2026 | @clinica_los_arroyos | Clínica Los Arroyos — salud multidisciplinaria (fisioterapia/estética/pilates), San Nicolás |
+| 09/09/2026 | @veterinariaarmoa | Veterinaria Armoa — veterinaria, Ramallo |
+| 09/09/2026 | @desayunoslascamelias | Desayunos Las Camelias — desayunos y meriendas de regalo, San Nicolás |
