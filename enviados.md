@@ -127,3 +127,13 @@
 | 09/09/2026 | @clinica_los_arroyos | Clínica Los Arroyos — salud multidisciplinaria (fisioterapia/estética/pilates), San Nicolás |
 | 09/09/2026 | @veterinariaarmoa | Veterinaria Armoa — veterinaria, Ramallo |
 | 09/09/2026 | @desayunoslascamelias | Desayunos Las Camelias — desayunos y meriendas de regalo, San Nicolás |
+| 11/09/2026 | @mb_barber19 | MB Barber — barbería masculina, San Nicolás |
+| 11/09/2026 | @tallersanguinettisn | Chapería y Pintura Sanguinetti — chapa y pintura/carrocería, San Nicolás |
+| 11/09/2026 | @thamesrentacar | Thames Rent a Car — alquiler de autos, San Nicolás |
+| 11/09/2026 | @gsc.computers | GSC (Getting Smart Computers) — venta/service técnico de PC, San Nicolás |
+| 11/09/2026 | @elite_estetica_sn | ELITE Instituto de Medicina Estética — medicina estética facial/cirugía plástica, San Nicolás |
+| 11/09/2026 | @fashionstore_sn | Fashion Store — bijou y accesorios de moda, San Nicolás |
+| 11/09/2026 | @carteleriacontacto | Contacto Cartelería — cartelería/publicidad exterior, San Nicolás |
+| 11/09/2026 | @dsconstrucciones | DS Construcciones — constructora/desarrollo de obras, San Nicolás |
+| 11/09/2026 | @guarderia_canina_sn | Guardería Canina San Nicolás — hotel canino/guardería de mascotas, San Nicolás |
+| 11/09/2026 | @tioalberto.sn | Tío Alberto — rotisería/panadería con delivery, San Nicolás |
