@@ -117,13 +117,33 @@
 | 08/09/2026 | @agrogreen_sn | Agrogreen — piletas de natación (venta/instalación), San Nicolás |
 | 08/09/2026 | @brendy.masajes | Brendy Masajes (Bren Quiroga) — centro de masajes/relax, San Nicolás |
 | 08/09/2026 | @carwashsannicolas | Car Wash San Nicolás — lavadero premium/detailing, San Nicolás |
+| 09/09/2026 | @lamira.sn | La Mira — restó-bar (desayuno a trasnoche), San Nicolás |
+| 09/09/2026 | @mascotienda.sn | Masco Tienda San Nicolás — tienda de mascotas, San Nicolás |
+| 09/09/2026 | @luisina.peluqueria.sn | Luisina Peluquería — peluquería/coloración, San Nicolás |
+| 09/09/2026 | @7.fuegos | 7 Fuegos — gastronomía/hamburguesería, Ramallo |
+| 09/09/2026 | @parrillacarlosquinto | Carlos V Parrilla — parrilla/pescado de río, San Pedro |
+| 09/09/2026 | @indoorbike.sn | Spinning Indoor Bike (Lega Clas) — estudio de spinning, San Nicolás |
+| 09/09/2026 | @eltanque.sn | El Tanque — parrilla/patio de comidas, San Nicolás |
+| 09/09/2026 | @clinica_los_arroyos | Clínica Los Arroyos — salud multidisciplinaria (fisioterapia/estética/pilates), San Nicolás |
+| 09/09/2026 | @veterinariaarmoa | Veterinaria Armoa — veterinaria, Ramallo |
+| 09/09/2026 | @desayunoslascamelias | Desayunos Las Camelias — desayunos y meriendas de regalo, San Nicolás |
+| 11/09/2026 | @mb_barber19 | MB Barber — barbería masculina, San Nicolás |
+| 11/09/2026 | @tallersanguinettisn | Chapería y Pintura Sanguinetti — chapa y pintura/carrocería, San Nicolás |
+| 11/09/2026 | @thamesrentacar | Thames Rent a Car — alquiler de autos, San Nicolás |
+| 11/09/2026 | @gsc.computers | GSC (Getting Smart Computers) — venta/service técnico de PC, San Nicolás |
+| 11/09/2026 | @elite_estetica_sn | ELITE Instituto de Medicina Estética — medicina estética facial/cirugía plástica, San Nicolás |
+| 11/09/2026 | @fashionstore_sn | Fashion Store — bijou y accesorios de moda, San Nicolás |
+| 11/09/2026 | @carteleriacontacto | Contacto Cartelería — cartelería/publicidad exterior, San Nicolás |
+| 11/09/2026 | @dsconstrucciones | DS Construcciones — constructora/desarrollo de obras, San Nicolás |
+| 11/09/2026 | @guarderia_canina_sn | Guardería Canina San Nicolás — hotel canino/guardería de mascotas, San Nicolás |
+| 11/09/2026 | @tioalberto.sn | Tío Alberto — rotisería/panadería con delivery, San Nicolás |
 | 12/09/2026 | @encantus.estudio | Encantus Estudio de Canto — academia de canto, San Nicolás |
 | 12/09/2026 | @lubricentro.sur | Lubricentro Sur — lubricentro, San Nicolás |
-| 12/09/2026 | @thamesrentacar | Thames Rent a Car — alquiler de autos, San Nicolás |
 | 12/09/2026 | @eljardindelasmascot | El Jardín de las Mascotas — hotel canino, San Nicolás |
-| 12/09/2026 | @mascotienda.sn | Masco Tienda San Nicolás — tienda de mascotas/accesorios, San Nicolás |
 | 12/09/2026 | @bistottoseguridad | Bistotto Seguridad — cámaras y seguridad electrónica, San Nicolás y Rosario |
 | 12/09/2026 | @podologia_daniela_moreira | Podología Daniela Moreira — podología, San Nicolás |
 | 12/09/2026 | @openpadelsannicolas | Open Padel San Nicolás — complejo de pádel, San Nicolás |
 | 12/09/2026 | @rotiseria_don_juan | Rotisería Don Juan — rotisería tradicional, San Nicolás |
 | 12/09/2026 | @x.tremeforce | X-Treme Force — gimnasio musculación/crossfit (3 sedes), San Nicolás |
+| 12/09/2026 | @institutomedicodelosarroyos | Instituto Médico de los Arroyos — instituto médico, San Nicolás |
+| 12/09/2026 | @allmusicsn | All Music Store — instrumentos musicales y audio, San Nicolás |
