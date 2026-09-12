@@ -117,3 +117,13 @@
 | 08/09/2026 | @agrogreen_sn | Agrogreen — piletas de natación (venta/instalación), San Nicolás |
 | 08/09/2026 | @brendy.masajes | Brendy Masajes (Bren Quiroga) — centro de masajes/relax, San Nicolás |
 | 08/09/2026 | @carwashsannicolas | Car Wash San Nicolás — lavadero premium/detailing, San Nicolás |
+| 12/09/2026 | @encantus.estudio | Encantus Estudio de Canto — academia de canto, San Nicolás |
+| 12/09/2026 | @lubricentro.sur | Lubricentro Sur — lubricentro, San Nicolás |
+| 12/09/2026 | @thamesrentacar | Thames Rent a Car — alquiler de autos, San Nicolás |
+| 12/09/2026 | @eljardindelasmascot | El Jardín de las Mascotas — hotel canino, San Nicolás |
+| 12/09/2026 | @mascotienda.sn | Masco Tienda San Nicolás — tienda de mascotas/accesorios, San Nicolás |
+| 12/09/2026 | @bistottoseguridad | Bistotto Seguridad — cámaras y seguridad electrónica, San Nicolás y Rosario |
+| 12/09/2026 | @podologia_daniela_moreira | Podología Daniela Moreira — podología, San Nicolás |
+| 12/09/2026 | @openpadelsannicolas | Open Padel San Nicolás — complejo de pádel, San Nicolás |
+| 12/09/2026 | @rotiseria_don_juan | Rotisería Don Juan — rotisería tradicional, San Nicolás |
+| 12/09/2026 | @x.tremeforce | X-Treme Force — gimnasio musculación/crossfit (3 sedes), San Nicolás |
