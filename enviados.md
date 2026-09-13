@@ -147,3 +147,13 @@
 | 12/09/2026 | @x.tremeforce | X-Treme Force — gimnasio musculación/crossfit (3 sedes), San Nicolás |
 | 12/09/2026 | @institutomedicodelosarroyos | Instituto Médico de los Arroyos — instituto médico, San Nicolás |
 | 12/09/2026 | @allmusicsn | All Music Store — instrumentos musicales y audio, San Nicolás |
+| 13/09/2026 | @top3sannicolas | TOP 3 San Nicolás — marroquinería/equipaje y accesorios de viaje, San Nicolás |
+| 13/09/2026 | @elmanguruyu | ElManguruyu Pesca — artículos de pesca y camping, San Nicolás |
+| 13/09/2026 | @puipartyclub | PUI Party Club — salón de fiestas infantiles, San Nicolás |
+| 13/09/2026 | @farmaciazonanorte | Farmacia Zona Norte — farmacia, San Nicolás |
+| 13/09/2026 | @naturesbody.suplementos | Nature's Body Suplementos — suplementos y nutrición deportiva, San Nicolás |
+| 13/09/2026 | @isna.1984 | Instituto San Nicolás de los Arroyos (ISNA) — colegio privado (jardín/primaria/secundaria), San Nicolás |
+| 13/09/2026 | @civesa_rto | CIVESA RTO — taller de verificación técnica vehicular, San Nicolás |
+| 13/09/2026 | @tridentefutbol5 | Tridente Fútbol 5 — complejo de canchas de fútbol 5, San Nicolás |
+| 13/09/2026 | @opticaluchessi | Óptica Luchessi — óptica (desde 1960), San Nicolás |
+| 13/09/2026 | @estudio.contable.medina | Estudio Contable Alejandro Medina — contador público matriculado, San Nicolás |
