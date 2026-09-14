@@ -157,3 +157,13 @@
 | 13/09/2026 | @tridentefutbol5 | Tridente Fútbol 5 — complejo de canchas de fútbol 5, San Nicolás |
 | 13/09/2026 | @opticaluchessi | Óptica Luchessi — óptica (desde 1960), San Nicolás |
 | 13/09/2026 | @estudio.contable.medina | Estudio Contable Alejandro Medina — contador público matriculado, San Nicolás |
+| 14/09/2026 | @automoviles_arroyo | Automóviles Arroyo — concesionaria de autos usados, San Nicolás |
+| 14/09/2026 | @carniceriasannicolas5 | Carnicería San Nicolás — carnicería/embutidos artesanales, San Nicolás |
+| 14/09/2026 | @seilerhnosmaquinarias | Seiler Hnos Maquinarias S.A. — venta de maquinaria agrícola y repuestos, San Nicolás |
+| 14/09/2026 | @elyaguaron.sn | Cabañas El Yaguarón — complejo de cabañas/turismo, San Nicolás |
+| 14/09/2026 | @hotelespanol.sn | Hotel Español San Nicolás — hotelería pet friendly, San Nicolás |
+| 14/09/2026 | @dra.rociofunes | Dra. Rocío Funes — ginecología y obstetricia, San Nicolás |
+| 14/09/2026 | @pasteleria.san.nicolas | Horno San Nicolás — panadería/pastelería artesanal, San Nicolás |
+| 14/09/2026 | @drajesicaweiss | Dra. Jesica Weiss — dermatología/medicina estética, San Nicolás |
+| 14/09/2026 | @conocerseparaser | Conocerse para Ser — consultorios integrales de salud y educación, San Nicolás |
+| 14/09/2026 | @drarominaruffini | Dra. Romina Ruffini — obstetricia y ginecología, San Nicolás |
