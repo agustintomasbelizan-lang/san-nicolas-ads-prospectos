@@ -167,3 +167,13 @@
 | 14/09/2026 | @drajesicaweiss | Dra. Jesica Weiss — dermatología/medicina estética, San Nicolás |
 | 14/09/2026 | @conocerseparaser | Conocerse para Ser — consultorios integrales de salud y educación, San Nicolás |
 | 14/09/2026 | @drarominaruffini | Dra. Romina Ruffini — obstetricia y ginecología, San Nicolás |
+| 15/09/2026 | @contrologipilates | Contrologi Pilates — estudio de pilates reformer y formación de instructorado, San Nicolás |
+| 15/09/2026 | @glamourensan | Glamour Vestidos de Fiesta — indumentaria de fiesta (venta/alquiler), San Nicolás |
+| 15/09/2026 | @ashtangasannicolas | Ashtanga Yoga San Nicolás — estudio de yoga, San Nicolás |
+| 15/09/2026 | @centro.dental.abud | Centro Médico Dental Abud — odontología integral, San Nicolás |
+| 15/09/2026 | @mrpolarizados_ | MRPolarizados — polarizado y tuning vehicular, San Nicolás |
+| 15/09/2026 | @topservicesn | Top Service — service técnico de electrodomésticos (lavarropas/secarropas/microondas), San Nicolás |
+| 15/09/2026 | @8galones | 8 Galones — indumentaria masculina y calzado urbano, San Nicolás |
+| 15/09/2026 | @vitalsannicolas | Vital Viandas SN — viandas saludables a domicilio, San Nicolás |
+| 15/09/2026 | @pop_zapateria | POP Zapatería — calzado con venta online y envíos, San Nicolás |
+| 15/09/2026 | @isemsannicolas | Instituto ISEM San Nicolás — instituto de cursos de estética y belleza, San Nicolás |
