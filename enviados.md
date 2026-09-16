@@ -177,3 +177,13 @@
 | 15/09/2026 | @vitalsannicolas | Vital Viandas SN — viandas saludables a domicilio, San Nicolás |
 | 15/09/2026 | @pop_zapateria | POP Zapatería — calzado con venta online y envíos, San Nicolás |
 | 15/09/2026 | @isemsannicolas | Instituto ISEM San Nicolás — instituto de cursos de estética y belleza, San Nicolás |
+| 16/09/2026 | @ramallopropiedades | Ramallo Propiedades — inmobiliaria, Ramallo |
+| 16/09/2026 | @raiceschozasurbanas | Raíces Chozas Urbanas — salón de eventos y casamientos, San Nicolás |
+| 16/09/2026 | @consultoriosmaternoinfantil | Consultorios Materno Infantil — salud materno-infantil/ecografía 5D, San Nicolás |
+| 16/09/2026 | @pastasdalymir | Pastas Dalymir — fábrica de pastas artesanales, San Nicolás |
+| 16/09/2026 | @mipueblooparrilla | Parrilla y Cantina Mi Pueblo — gastronomía/parrilla con shows en vivo, Ramallo |
+| 16/09/2026 | @mrzodontologia | Centro Odontológico Ramallo (MRZ Salud) — odontología integral, Ramallo |
+| 16/09/2026 | @innovaestetica1 | Innova — estética/medicina estética, Villa Constitución |
+| 16/09/2026 | @ramallo_sport | Ramallo Sport — indumentaria urbana y formal, Ramallo |
+| 16/09/2026 | @essentialgymxpresssanpedro | Essential Gym Xpress — gimnasio, San Pedro |
+| 16/09/2026 | @laensaimadadesanpedro | La Ensaimada — cafetería/pastelería especializada, San Pedro |
