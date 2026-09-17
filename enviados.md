@@ -187,3 +187,13 @@
 | 16/09/2026 | @ramallo_sport | Ramallo Sport — indumentaria urbana y formal, Ramallo |
 | 16/09/2026 | @essentialgymxpresssanpedro | Essential Gym Xpress — gimnasio, San Pedro |
 | 16/09/2026 | @laensaimadadesanpedro | La Ensaimada — cafetería/pastelería especializada, San Pedro |
+| 17/09/2026 | @baroncantrainer | Barón Can Trainer — adiestramiento canino profesional, Ramallo |
+| 17/09/2026 | @piletazo.actividades.acuaticas | Piletazo — escuela de natación/pileta climatizada, San Nicolás |
+| 17/09/2026 | @nicolassanetticoiffeur | Nicolas Sanetti Coiffeur — salón de belleza premium (San Nicolás/Ibiza), San Nicolás |
+| 17/09/2026 | @viverodelsolsn | Vivero Del Sol — vivero/deco/florería y arreglos de boda, San Nicolás |
+| 17/09/2026 | @sannicolaspanaderiaa | Panadería San Nicolás — panadería, San Nicolás |
+| 17/09/2026 | @pasto_nails | Pasto Nails — manicuría/nail spa, San Nicolás |
+| 17/09/2026 | @unsterblichcervezaartesanal | Unsterblich Cerveza Artesanal — cervecería artesanal familiar, San Nicolás |
+| 17/09/2026 | @sportation.deportes | Sportation Deportes — indumentaria y calzado deportivo, Villa Constitución |
+| 17/09/2026 | @inmobiliariachurruarinsp | Churruarin Inmobiliaria — inmobiliaria (30 años), San Pedro |
+| 17/09/2026 | @gimnasiogofitconstt | Gimnasio GOFIT — gimnasio de musculación, Villa Constitución |
