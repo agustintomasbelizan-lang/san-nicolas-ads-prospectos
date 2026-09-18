@@ -197,3 +197,13 @@
 | 17/09/2026 | @sportation.deportes | Sportation Deportes — indumentaria y calzado deportivo, Villa Constitución |
 | 17/09/2026 | @inmobiliariachurruarinsp | Churruarin Inmobiliaria — inmobiliaria (30 años), San Pedro |
 | 17/09/2026 | @gimnasiogofitconstt | Gimnasio GOFIT — gimnasio de musculación, Villa Constitución |
+| 18/09/2026 | @pelucaninapatitassucias | Peluquería Canina "Patitas Sucias" — estética/grooming canino, San Nicolás |
+| 18/09/2026 | @firstclasscapacitacion | First Class Capacitación — instituto de inglés, San Nicolás |
+| 18/09/2026 | @jardinarroyitodelparana | Jardín Arroyito del Paraná — jardín maternal e infantes, San Nicolás |
+| 18/09/2026 | @los_nonitos_pasteleria | Los Nonitos Pastelería Artesanal — gastronomía/pastelería, San Nicolás |
+| 18/09/2026 | @cmdelapiel | Centro Médico de la Piel — dermatología clínica y estética, San Nicolás |
+| 18/09/2026 | @instituto.iaco | IACO Instituto de Alta Complejidad Oftalmológica — oftalmología/cirugía ocular, San Nicolás |
+| 18/09/2026 | @championmotos.web | Champion Motos — concesionario oficial de motos, San Nicolás |
+| 18/09/2026 | @boxon.autoradio | Boxon Autoradio — car audio, alarmas y accesorios vehiculares, San Nicolás |
+| 18/09/2026 | @vete.delosarroyos | Clínica Veterinaria De los Arroyos — veterinaria de alta complejidad, San Nicolás |
+| 18/09/2026 | @kird679 | KIRD (Kinesiología Integral y Reeducación Deportiva) — kinesiología deportiva, San Nicolás |
