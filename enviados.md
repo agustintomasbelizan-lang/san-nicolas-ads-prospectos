@@ -207,3 +207,13 @@
 | 18/09/2026 | @boxon.autoradio | Boxon Autoradio — car audio, alarmas y accesorios vehiculares, San Nicolás |
 | 18/09/2026 | @vete.delosarroyos | Clínica Veterinaria De los Arroyos — veterinaria de alta complejidad, San Nicolás |
 | 18/09/2026 | @kird679 | KIRD (Kinesiología Integral y Reeducación Deportiva) — kinesiología deportiva, San Nicolás |
+| 19/09/2026 | @tallerdla | Taller Mecánico DLA — mecánica automotriz multimarca, San Nicolás |
+| 19/09/2026 | @muebleria_larueda | Mueblería La Rueda — mueblería/carpintería en pino a medida, Villa Constitución |
+| 19/09/2026 | @costaramallo | Cabañas Costa Ramallo — turismo/alojamiento sobre el Paraná, Ramallo |
+| 19/09/2026 | @juar_impresiones | JUAR Diseño & Impresiones — imprenta/cartelería/gráfica, San Nicolás |
+| 19/09/2026 | @narrow_sn | Narrow San Nicolás — indumentaria y calzado juvenil/hombre, San Nicolás |
+| 19/09/2026 | @outletalvearkidssannicolas | Outlet Alvear Kids San Nicolás — calzado e indumentaria infantil, San Nicolás |
+| 19/09/2026 | @bodybalancepilates.sn | Body Balance Pilates San Nicolás — estudio de pilates, San Nicolás |
+| 19/09/2026 | @comoencasa20 | Rotisería Como en Casa — rotisería/viandas, Villa Constitución |
+| 19/09/2026 | @confiterialaperla | Confitería La Perla — confitería/pastelería histórica (desde 1919), San Pedro |
+| 19/09/2026 | @estudio_san_pedro | Estudio San Pedro (Melisa Foto) — fotografía familiar/exteriores, San Pedro |
