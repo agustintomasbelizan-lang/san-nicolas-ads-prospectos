@@ -217,3 +217,13 @@
 | 19/09/2026 | @comoencasa20 | Rotisería Como en Casa — rotisería/viandas, Villa Constitución |
 | 19/09/2026 | @confiterialaperla | Confitería La Perla — confitería/pastelería histórica (desde 1919), San Pedro |
 | 19/09/2026 | @estudio_san_pedro | Estudio San Pedro (Melisa Foto) — fotografía familiar/exteriores, San Pedro |
+| 20/09/2026 | @racionesdesalud | Raciones de Salud — nutrición y viandas saludables, San Nicolás |
+| 20/09/2026 | @_dulcebelen_ | Dulce Belén Sin TACC — panadería/pastelería libre de gluten, Villa Constitución |
+| 20/09/2026 | @sportcenter241 | Sport Center — indumentaria deportiva y suplementos, San Nicolás |
+| 20/09/2026 | @opticaluna.sn | Óptica Luna — óptica, San Nicolás |
+| 20/09/2026 | @ferremix_sn | Ferremix — ferretería con venta online, San Nicolás |
+| 20/09/2026 | @libreriasannicolas | Librería San Nicolás — librería, San Nicolás |
+| 20/09/2026 | @sanpedroidiomas | Academia de Idiomas San Pedro — instituto de idiomas (centro Cambridge), San Pedro |
+| 20/09/2026 | @mariojpeirosa | Mario J Peiró S.A. — corralón/materiales de construcción, San Pedro |
+| 20/09/2026 | @pelluchon_y_asociados | Pelluchon & Asociados — estudio jurídico-contable-impositivo y seguros, San Pedro |
+| 20/09/2026 | @villa_fitnessgym_cross | Villa Fitness Gym y Crossfit — gimnasio/crossfit, Villa Constitución |
