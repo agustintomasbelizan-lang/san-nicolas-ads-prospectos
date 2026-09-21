@@ -227,3 +227,13 @@
 | 20/09/2026 | @mariojpeirosa | Mario J Peiró S.A. — corralón/materiales de construcción, San Pedro |
 | 20/09/2026 | @pelluchon_y_asociados | Pelluchon & Asociados — estudio jurídico-contable-impositivo y seguros, San Pedro |
 | 20/09/2026 | @villa_fitnessgym_cross | Villa Fitness Gym y Crossfit — gimnasio/crossfit, Villa Constitución |
+| 21/09/2026 | @brahguettoloungebar | Brahguetto Lounge Bar — bar de tragos/gastronomía nocturna, San Nicolás |
+| 21/09/2026 | @corcel.sa | Corcel Safety S.A. — indumentaria de trabajo y EPP industrial, San Nicolás |
+| 21/09/2026 | @detodounpoco.sn | De Todo un Poco — bazar, librería, juguetería y deco, San Nicolás |
+| 21/09/2026 | @verduleria.lodejuan | Verdulería Lo de Juan — verdulería y frutería (4 sucursales), San Nicolás |
+| 21/09/2026 | @colegiosanmartinsn | Colegio San Martín — colegio privado, San Nicolás |
+| 21/09/2026 | @colegioespiritusantosn | Colegio Espíritu Santo — colegio privado, San Nicolás |
+| 21/09/2026 | @buloneriayferreteriarossi | Bulonería y Ferretería Rossi — ferretería/bulonería industrial, San Nicolás |
+| 21/09/2026 | @expomuebles.sn | Expo Muebles — mueblería, San Nicolás |
+| 21/09/2026 | @combatclubteam | Aguero Combat Club — escuela de taekwondo/kickboxing/boxeo, San Nicolás |
+| 21/09/2026 | @blends.burgers | Blend's Burgers & Pizzas — hamburguesería artesanal premium, San Nicolás |
