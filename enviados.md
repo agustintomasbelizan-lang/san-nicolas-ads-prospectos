@@ -237,3 +237,13 @@
 | 21/09/2026 | @expomuebles.sn | Expo Muebles — mueblería, San Nicolás |
 | 21/09/2026 | @combatclubteam | Aguero Combat Club — escuela de taekwondo/kickboxing/boxeo, San Nicolás |
 | 21/09/2026 | @blends.burgers | Blend's Burgers & Pizzas — hamburguesería artesanal premium, San Nicolás |
+| 22/09/2026 | @tintoreriarex | Tintorería Rex (Lattanzio-Acosta) — tintorería, San Nicolás |
+| 22/09/2026 | @lasegundaseguros.sp | La Segunda Seguros San Pedro — productor asesor de seguros, San Pedro |
+| 22/09/2026 | @dr.jonatanbillordo | Dr. Jonatan Billordo — médico clínico/pediatría, San Nicolás |
+| 22/09/2026 | @transportejosemaria | Transporte José María Castelli — mudanzas y transporte de carga, San Nicolás |
+| 22/09/2026 | @savioremis.sn | Savio Remis — agencia de remises con geolocalización, San Nicolás |
+| 22/09/2026 | @pampatec_spa | Veterinaria Pampatec — veterinaria/spa de mascotas, San Nicolás |
+| 22/09/2026 | @farmaciapinasco | Farmacia Pinasco — farmacia, San Nicolás |
+| 22/09/2026 | @corralon_la_villa | LA VILLA Ferretería y Corralón — ferretería/corralón, Villa Constitución |
+| 22/09/2026 | @panaderia_sannicolas1 | Panadería San Nicolás (B° 47 y 49) — panadería, San Nicolás |
+| 22/09/2026 | @el_parador | El Parador — kiosco/cafetería, San Nicolás |
