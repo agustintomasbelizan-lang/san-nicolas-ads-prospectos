@@ -247,3 +247,13 @@
 | 22/09/2026 | @corralon_la_villa | LA VILLA Ferretería y Corralón — ferretería/corralón, Villa Constitución |
 | 22/09/2026 | @panaderia_sannicolas1 | Panadería San Nicolás (B° 47 y 49) — panadería, San Nicolás |
 | 22/09/2026 | @el_parador | El Parador — kiosco/cafetería, San Nicolás |
+| 23/09/2026 | @itosannicolas | ITO Instituto de Traumatología y Ortopedia — traumatología/ortopedia, San Nicolás |
+| 23/09/2026 | @centro.odontologico.sannicolas | Centro Odontológico San Nicolás — odontología/implantes/ortodoncia, San Nicolás |
+| 23/09/2026 | @ciecsannicolas | Instituto CIEC San Nicolás — instituto de capacitación profesional, San Nicolás |
+| 23/09/2026 | @siemprebellasss | Siempre Bellas — centro de estética y boutique de maquillaje importado, Villa Constitución |
+| 23/09/2026 | @beautytimestudio_sanpedro | Beauty Time Studio — salón de belleza integral, San Pedro |
+| 23/09/2026 | @peluqueriabarberiavilla | Peluquería Barbería Villa — barbería tradicional (desde 1933), Villa Constitución |
+| 23/09/2026 | @inmobiliariabutara | Inmobiliaria Butara — inmobiliaria, Ramallo |
+| 23/09/2026 | @sannicolasmayorista | San Nicolás Distribuidora Mayorista — distribuidora mayorista para bares/kioscos, San Nicolás |
+| 23/09/2026 | @mucchioevento | Mucchio Evento — salón de eventos, San Nicolás |
+| 23/09/2026 | @cerveceriabari | Cervecería Barí — cervecería artesanal, San Nicolás |
