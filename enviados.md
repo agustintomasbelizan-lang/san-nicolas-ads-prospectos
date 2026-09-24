@@ -257,3 +257,13 @@
 | 23/09/2026 | @sannicolasmayorista | San Nicolás Distribuidora Mayorista — distribuidora mayorista para bares/kioscos, San Nicolás |
 | 23/09/2026 | @mucchioevento | Mucchio Evento — salón de eventos, San Nicolás |
 | 23/09/2026 | @cerveceriabari | Cervecería Barí — cervecería artesanal, San Nicolás |
+| 24/09/2026 | @lonera_sannicolas | Lonera San Nicolás — lonas y toldos para camiones/acoplados, San Nicolás |
+| 24/09/2026 | @perfumeriasantinasn | Perfumería Santina — perfumería y artículos de limpieza, San Nicolás |
+| 24/09/2026 | @clinicadediagnosticosn | Clínica de Diagnóstico San Nic — diagnóstico por imágenes multiespecialidad, San Nicolás |
+| 24/09/2026 | @panaderia_alemana | Panadería Alemana — panadería/confitería artesanal desde 1940, Villa Constitución |
+| 24/09/2026 | @buenasmigas_vc | Buenas Migas — panadería y fábrica de pastas, Villa Constitución |
+| 24/09/2026 | @hotelapartdelosarroyos | De los Arroyos Apart Hotel — hotelería/apart hotel, San Nicolás |
+| 24/09/2026 | @eddis.sannicolas | Eddis Educativa San Nicolás — instituto de capacitación laboral, San Nicolás |
+| 24/09/2026 | @persia.empanadas | Persia — pizza a la piedra y empanadas horneadas con delivery, San Nicolás |
+| 24/09/2026 | @labaska.sn | La Baska San Nicolás — empanadas con 23 años de trayectoria, San Nicolás |
+| 24/09/2026 | @ambarjoyasrelojes | Ámbar Joyería y Relojería — joyería/relojería, San Nicolás |
