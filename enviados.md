@@ -267,3 +267,13 @@
 | 24/09/2026 | @persia.empanadas | Persia — pizza a la piedra y empanadas horneadas con delivery, San Nicolás |
 | 24/09/2026 | @labaska.sn | La Baska San Nicolás — empanadas con 23 años de trayectoria, San Nicolás |
 | 24/09/2026 | @ambarjoyasrelojes | Ámbar Joyería y Relojería — joyería/relojería, San Nicolás |
+| 25/09/2026 | @refrisanicolas | Refrigeración San Nicolás — distribuidora de insumos de refrigeración/calefacción/electricidad, San Nicolás |
+| 25/09/2026 | @ottella_propiedades | Ottella Propiedades (Julio Ottella) — inmobiliaria individual, San Nicolás |
+| 25/09/2026 | @zanellasannicolas | Zanella San Nicolás — concesionario oficial de motos, San Nicolás |
+| 25/09/2026 | @eternidad.sn | Academia Eternidad — academia de baile, San Nicolás |
+| 25/09/2026 | @mamlimpieza_sannicolas | MAM Limpieza San Nicolás — empresa de limpieza, San Nicolás |
+| 25/09/2026 | @esteticaef | Centro de Estética EF (Cintia Fernández) — centro de estética, Estación Ramallo |
+| 25/09/2026 | @terruno.restaurant | Terruño Restaurant — bar de tapas/restaurante, Villa Ramallo |
+| 25/09/2026 | @veterinarialucassn | Veterinaria Lucas (Dr. Lucas Rojas) — veterinaria de pequeños y grandes animales, San Nicolás |
+| 25/09/2026 | @acatodosn | ÁCA TODO Mueblería — mueblería con envíos nacionales, San Nicolás y Villa Ramallo |
+| 25/09/2026 | @envases.sannicolas | Envases San Nicolás — distribuidora de descartables/cotillón/insumos gastronómicos, San Nicolás |
