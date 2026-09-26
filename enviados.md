@@ -277,3 +277,13 @@
 | 25/09/2026 | @veterinarialucassn | Veterinaria Lucas (Dr. Lucas Rojas) — veterinaria de pequeños y grandes animales, San Nicolás |
 | 25/09/2026 | @acatodosn | ÁCA TODO Mueblería — mueblería con envíos nacionales, San Nicolás y Villa Ramallo |
 | 25/09/2026 | @envases.sannicolas | Envases San Nicolás — distribuidora de descartables/cotillón/insumos gastronómicos, San Nicolás |
+| 26/09/2026 | @dipalsannicolas.distribuidora | Dipal San Nicolás — distribuidora mayorista/minorista de consumo masivo, San Nicolás |
+| 26/09/2026 | @respaldos.vr | Respaldos Villa Ramallo — decoración de hogar / mueblería a medida, Villa Ramallo |
+| 26/09/2026 | @marmoleriatrivino_sanicolas | Marmolería Triviño — marmolería (mesadas/revestimientos), San Nicolás |
+| 26/09/2026 | @sn_geronimo | Centro Ecuestre San Gerónimo — equitación, San Nicolás |
+| 26/09/2026 | @coolmayorista | Mayorista Cool — venta mayorista de artículos térmicos y de temporada, San Nicolás |
+| 26/09/2026 | @eventuales.sn | Eventuales San Nicolás — alquiler temporario de propiedades, San Nicolás |
+| 26/09/2026 | @gomeriap | Gomería Pisani — reconstrucción de neumáticos para camiones, Villa Constitución |
+| 26/09/2026 | @autosdelaplaza_ | Autos de la Plaza — concesionaria de autos 0km/usados, San Nicolás y Ramallo |
+| 26/09/2026 | @ginlaelisa | Gin La Elisa — destilería artesanal de gin, San Nicolás |
+| 26/09/2026 | @la_decoyambientaciones | Deco & Ambientaciones — decoración y ambientación de eventos, Villa Constitución |
