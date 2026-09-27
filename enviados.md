@@ -287,3 +287,13 @@
 | 26/09/2026 | @autosdelaplaza_ | Autos de la Plaza — concesionaria de autos 0km/usados, San Nicolás y Ramallo |
 | 26/09/2026 | @ginlaelisa | Gin La Elisa — destilería artesanal de gin, San Nicolás |
 | 26/09/2026 | @la_decoyambientaciones | Deco & Ambientaciones — decoración y ambientación de eventos, Villa Constitución |
+| 27/09/2026 | @tontarelliantiguedades | Antigüedades Tontarelli — antigüedades/muebles y herrajes, San Nicolás |
+| 27/09/2026 | @clubdepescadores.sn | Club de Pescadores San Nicolás — club náutico/social (salón de eventos), San Nicolás |
+| 27/09/2026 | @ceirrehabilitacion | CEIR Centro de Rehabilitación — rehabilitación física/neurológica/deportiva, San Nicolás |
+| 27/09/2026 | @chacinados.braidot | Chacinados y Embutidos Braidot — fábrica de embutidos artesanales, San Nicolás |
+| 27/09/2026 | @ortopediasannicolassa | Ortopedia San Nicolás SA — venta/alquiler de equipamiento ortopédico, San Nicolás |
+| 27/09/2026 | @sannicolastransporte | San Nicolás Transporte — transporte de cargas (sector forestal), San Nicolás |
+| 27/09/2026 | @clinica_sannicolaspets | Clínica San Nicolás Pets — veterinaria y petshop (+30 años), San Nicolás |
+| 27/09/2026 | @festa.alquilerdelivings | Festa! Alquiler de Livings — alquiler de mobiliario/decoración para eventos, San Nicolás |
+| 27/09/2026 | @pecosentretenimientos | Pecos Entretenimientos — salón de entretenimientos/arcade, San Nicolás |
+| 27/09/2026 | @snrefrigeracion2021 | San Nicolás Refrigeración — técnicos matriculados en refrigeración/AC, San Nicolás |
