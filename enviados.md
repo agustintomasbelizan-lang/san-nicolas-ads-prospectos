@@ -297,3 +297,13 @@
 | 27/09/2026 | @festa.alquilerdelivings | Festa! Alquiler de Livings — alquiler de mobiliario/decoración para eventos, San Nicolás |
 | 27/09/2026 | @pecosentretenimientos | Pecos Entretenimientos — salón de entretenimientos/arcade, San Nicolás |
 | 27/09/2026 | @snrefrigeracion2021 | San Nicolás Refrigeración — técnicos matriculados en refrigeración/AC, San Nicolás |
+| 28/09/2026 | @farmagrosso | Farmacia Grosso (Corina Grosso) — farmacia de barrio, Villa Constitución |
+| 28/09/2026 | @farmacia.basualdo | Farmacia Basualdo — farmacia de barrio, Villa Constitución |
+| 28/09/2026 | @sensai_centro.estetica | Sensai Centro de Estética (Gabriela Velo) — centro de estética individual, Estación Ramallo |
+| 28/09/2026 | @heladeriapiruco | Heladería Piruco — heladería artesanal y cafetería, Villa Ramallo |
+| 28/09/2026 | @bauza_pizzeria | Bauza Pizzería — pizzería histórica (+50 años), San Pedro |
+| 28/09/2026 | @eventos.lacasona | La Casona Eventos — salón de fiestas y eventos, San Pedro |
+| 28/09/2026 | @allmusicsn | All Music Store — instrumentos musicales y equipos de sonido, San Nicolás |
+| 28/09/2026 | @cameliacasadetesp | Camelia Casa de Té — casa de té, San Pedro |
+| 28/09/2026 | @fullswinggimnasio | Full Swing Gimnasio — gimnasio/boot camp, San Pedro |
+| 28/09/2026 | @inmobiliariayabas | Inmobiliaria Yabas — inmobiliaria rural (campos/estancias/chacras), San Pedro |
