@@ -307,3 +307,13 @@
 | 28/09/2026 | @cameliacasadetesp | Camelia Casa de Té — casa de té, San Pedro |
 | 28/09/2026 | @fullswinggimnasio | Full Swing Gimnasio — gimnasio/boot camp, San Pedro |
 | 28/09/2026 | @inmobiliariayabas | Inmobiliaria Yabas — inmobiliaria rural (campos/estancias/chacras), San Pedro |
+| 29/09/2026 | @estudiocontableintegralmv | MV Estudio Contable Integral — estudio contable/asesoramiento impositivo, San Nicolás |
+| 29/09/2026 | @vinotecabaco | Vinoteca Baco — vinoteca de vinos premium, San Nicolás |
+| 29/09/2026 | @mvm.smile | Dentista San Nicolás (María Victoria Mansilla) — odontología, San Nicolás |
+| 29/09/2026 | @la_casa_delas_baterias | La Casa de las Baterías — venta de baterías para vehículos, San Nicolás |
+| 29/09/2026 | @seguridadgsn | GSN Seguridad (Grupo San Nicolás Seguridad SRL) — seguridad privada, San Nicolás |
+| 29/09/2026 | @area.grafica | Área Gráfica — imprenta digital/diseño gráfico, San Nicolás |
+| 29/09/2026 | @jardindeinfantesrayitodesol | Jardín de Infantes Rayito de Sol — jardín de infantes privado, San Nicolás |
+| 29/09/2026 | @miguelangelcatini | Miguel Catini Seguros — productor asesor de seguros, Villa Ramallo |
+| 29/09/2026 | @cristaleriasannicolas | Cristalería San Nicolás — vidriería/cristalería, San Nicolás |
+| 29/09/2026 | @complejo.jade | Complejo Jade — salón de eventos y catering, San Nicolás |
