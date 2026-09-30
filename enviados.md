@@ -317,3 +317,13 @@
 | 29/09/2026 | @miguelangelcatini | Miguel Catini Seguros — productor asesor de seguros, Villa Ramallo |
 | 29/09/2026 | @cristaleriasannicolas | Cristalería San Nicolás — vidriería/cristalería, San Nicolás |
 | 29/09/2026 | @complejo.jade | Complejo Jade — salón de eventos y catering, San Nicolás |
+| 30/09/2026 | @cazadoresypescadores.oficial | Club de Caza, Tiro y Pesca San Nicolás — club social deportivo, San Nicolás |
+| 30/09/2026 | @ina.terciario | INA Instituto Terciario — educación terciaria, San Nicolás |
+| 30/09/2026 | @life.acuario | Lifeacuario Peces — acuarismo/mascotas exóticas, San Nicolás |
+| 30/09/2026 | @lo_copete19 | Lo'Copete Restaurante — gastronomía/restaurante y bar, Ramallo |
+| 30/09/2026 | @giardini.ferreteria.ramallo | Ferretería Giardini Ramallo — ferretería/corralón, Ramallo |
+| 30/09/2026 | @complejoyvyra | Complejo Yvyra — turismo/cabañas, Ramallo |
+| 30/09/2026 | @laboutique.ropayasesoramiento | La Boutique Ropa & Asesoramiento — indumentaria/asesoramiento de imagen, Villa Constitución |
+| 30/09/2026 | @farmacia.morales.vc | Farmacia Morales — farmacia, Villa Constitución |
+| 30/09/2026 | @sanpedroquinta | Quinta San Pedro Eventos — salón de eventos, San Pedro |
+| 30/09/2026 | @cultivossanpedro | Cultivos San Pedro — vivero/fruticultura mayorista, San Pedro |
