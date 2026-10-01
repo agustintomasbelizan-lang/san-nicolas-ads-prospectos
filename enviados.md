@@ -327,3 +327,13 @@
 | 30/09/2026 | @farmacia.morales.vc | Farmacia Morales — farmacia, Villa Constitución |
 | 30/09/2026 | @sanpedroquinta | Quinta San Pedro Eventos — salón de eventos, San Pedro |
 | 30/09/2026 | @cultivossanpedro | Cultivos San Pedro — vivero/fruticultura mayorista, San Pedro |
+| 01/10/2026 | @patapata.salondefiestass | PATA-PATA Salón de Fiestas Infantiles — eventos infantiles, San Nicolás |
+| 01/10/2026 | @hechizo_salonfiestas | Salón de Fiestas Hechizo — salón de eventos, San Nicolás |
+| 01/10/2026 | @cotillongracielaoficial | Cotillón Graciela Oficial — cotillón/repostería/disfraces, San Nicolás |
+| 01/10/2026 | @casaquintalahechicera | La Hechicera Casa Quinta de Eventos — quinta para eventos y casamientos, San Nicolás |
+| 01/10/2026 | @mrclapton_ | Mr. Clapton Peluquería y Barbería Masculina — barbería premium, Villa Constitución |
+| 01/10/2026 | @theroompeluqueria | The Room Peluquería — salón de belleza, Ramallo |
+| 01/10/2026 | @clinica.sannicolas | Clínicas Médicas San Nicolás — centro médico integral, San Nicolás |
+| 01/10/2026 | @shinka_dojo | Shinka Dojo — defensa personal/combate cuerpo a cuerpo, Villa Constitución |
+| 01/10/2026 | @vetvilla | Vet Villa — veterinaria, Villa Constitución |
+| 01/10/2026 | @clubpilates_sanpedro | Club Pilates San Pedro — estudio de pilates, San Pedro |
