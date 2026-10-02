@@ -337,3 +337,8 @@
 | 01/10/2026 | @shinka_dojo | Shinka Dojo — defensa personal/combate cuerpo a cuerpo, Villa Constitución |
 | 01/10/2026 | @vetvilla | Vet Villa — veterinaria, Villa Constitución |
 | 01/10/2026 | @clubpilates_sanpedro | Club Pilates San Pedro — estudio de pilates, San Pedro |
+| 02/10/2026 | @nicumandras | Fletes y Mudanzas San Nicolás — mudanzas/fletes, San Nicolás |
+| 02/10/2026 | @coworkingsn | Coworking San Nicolás — oficinas compartidas/coworking, San Nicolás |
+| 02/10/2026 | @positivokinesiologia | Positivo Kinesiología — centro de rehabilitación y kinesiología, San Nicolás |
+| 02/10/2026 | @inmobiliaria.constitucion | Inmobiliaria Constitución — inmobiliaria, Villa Constitución |
+| 02/10/2026 | @matiasarranainmobiliaria.1 | Matías Arraña Inmobiliaria — inmobiliaria/loteos, Ramallo |
