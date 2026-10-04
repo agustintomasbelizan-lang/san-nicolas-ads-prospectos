@@ -342,3 +342,13 @@
 | 02/10/2026 | @positivokinesiologia | Positivo Kinesiología — centro de rehabilitación y kinesiología, San Nicolás |
 | 02/10/2026 | @inmobiliaria.constitucion | Inmobiliaria Constitución — inmobiliaria, Villa Constitución |
 | 02/10/2026 | @matiasarranainmobiliaria.1 | Matías Arraña Inmobiliaria — inmobiliaria/loteos, Ramallo |
+| 04/10/2026 | @optica_fava | Óptica Fava — óptica, Ramallo |
+| 04/10/2026 | @opticadiazsanpedro | Óptica Díaz — óptica, San Pedro |
+| 04/10/2026 | @vetsalud_sp | Vetsalud (Ma José Gravino) — veterinaria a domicilio, San Pedro |
+| 04/10/2026 | @patitas.veterinaria | Veterinaria Patitas — veterinaria, San Pedro |
+| 04/10/2026 | @oceano_centrodemasajesyreiki | Océano Masajes y Reiki — centro de masajes/terapias holísticas, San Nicolás |
+| 04/10/2026 | @eniaccomputacion | Eniac Computación — informática/tecnología (desde 1990), San Nicolás |
+| 04/10/2026 | @farmacia.liber | Farmacia Libertad — farmacia, San Pedro |
+| 04/10/2026 | @optica_delavilla | Óptica de la Villa — óptica (35 años), Villa Constitución |
+| 04/10/2026 | @lapanadesanmartin | Panadería San Martín — panadería/pastelería artesanal, San Pedro |
+| 04/10/2026 | @farmaciabottasp | Farmacia Botta — farmacia, San Pedro |
