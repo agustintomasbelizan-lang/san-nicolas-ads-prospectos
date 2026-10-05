@@ -352,3 +352,13 @@
 | 04/10/2026 | @optica_delavilla | Óptica de la Villa — óptica (35 años), Villa Constitución |
 | 04/10/2026 | @lapanadesanmartin | Panadería San Martín — panadería/pastelería artesanal, San Pedro |
 | 04/10/2026 | @farmaciabottasp | Farmacia Botta — farmacia, San Pedro |
+| 05/10/2026 | @villarocca_ | Villa Rocca — gastronomía/coctelería de autor, San Nicolás |
+| 05/10/2026 | @elmuellerestaurantee | El Muelle Restaurante — parrilla de pescado de río (costanera), San Nicolás |
+| 05/10/2026 | @ancarolaracca | Ancarola & Racca — inmobiliaria boutique (countries/campos), San Pedro |
+| 05/10/2026 | @ivan.mrkurt | Mr.Kurt — barbería/peluquería masculina, San Nicolás |
+| 05/10/2026 | @ritualsannicolas | Ritual San Nicolás — estudio de tatuajes, San Nicolás |
+| 05/10/2026 | @rutabrangus.km208 | Ruta Brangus KM208 — parador gastronómico premium (Ruta 9), Villa Ramallo |
+| 05/10/2026 | @gimnasiocemaf | Gimnasio Cemaf — gimnasio musculación/crossfit, San Nicolás |
+| 05/10/2026 | @urban.esteticapeluqueria | Urban Estética Peluquería — peluquería/estética integral, San Pedro |
+| 05/10/2026 | @insumossannicolas | Insumos Bijou San Nicolás — insumos de bijouterie mayorista/minorista, San Nicolás |
+| 05/10/2026 | @despeinadasok | Despeinadasok — peluquería de autor (color/recuperación capilar), San Nicolás |
