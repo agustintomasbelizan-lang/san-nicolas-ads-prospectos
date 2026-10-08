@@ -372,3 +372,13 @@
 | 06/10/2026 | @latiendadelcactus.vc | La Tienda del Cactus — vivero/boutique de plantas, Villa Constitución |
 | 06/10/2026 | @ymalaviajes | Ymala Viajes — agencia de viajes, Villa Constitución |
 | 06/10/2026 | @ramallovyt | Ramallo Viajes y Turismo — agencia de viajes, Ramallo |
+| 08/10/2026 | @pilatesnai | Pilates Nai — estudio de pilates reformer/funcional, San Nicolás |
+| 08/10/2026 | @gimnasiosegundotiempo | Gimnasio Segundo Tiempo — crossfit/halterofilia/funcional, San Nicolás |
+| 08/10/2026 | @granimperiocf | Gran Imperio Crossfit — gimnasio de crossfit, Villa Constitución |
+| 08/10/2026 | @zumbaconyaniymica | Zumba con Yani y Mica — estudio de baile/zumba, San Nicolás |
+| 08/10/2026 | @excelsia_estetica | Excelsia Centro de Estética — estética facial/corporal, San Nicolás |
+| 08/10/2026 | @simonalove.sn | Simona Love SN — indumentaria femenina, San Nicolás |
+| 08/10/2026 | @kikinesiologiaintegrativa | Kinesiología Integrativa (Ayelén Fulladoza Maia) — kinesiología/fisiatría, Villa Constitución |
+| 08/10/2026 | @alfaquiropraxia | Alfa Quiropraxia (Darío Penesi) — quiropraxia, Villa Constitución |
+| 08/10/2026 | @yoga.soy | Daniela Marisol Yoga — clases de yoga, San Pedro |
+| 08/10/2026 | @lucaslimardoeventos | Lucas Limardo Eventos — salón de eventos/catering, San Nicolás |
