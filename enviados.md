@@ -382,3 +382,6 @@
 | 08/10/2026 | @alfaquiropraxia | Alfa Quiropraxia (Darío Penesi) — quiropraxia, Villa Constitución |
 | 08/10/2026 | @yoga.soy | Daniela Marisol Yoga — clases de yoga, San Pedro |
 | 08/10/2026 | @lucaslimardoeventos | Lucas Limardo Eventos — salón de eventos/catering, San Nicolás |
+| 09/10/2026 | @printer.ediciones | Printer Ediciones — imprenta digital/offset, San Nicolás |
+| 09/10/2026 | @tulipcolorsn | Tulip Color SN — fotocopias/imprenta digital, San Nicolás |
+| 09/10/2026 | @mafaldagrafica | Mafalda Gráfica — imprenta digital y gran formato/diseño gráfico, Villa Constitución |
