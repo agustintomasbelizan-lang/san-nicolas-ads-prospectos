@@ -385,3 +385,10 @@
 | 09/10/2026 | @printer.ediciones | Printer Ediciones — imprenta digital/offset, San Nicolás |
 | 09/10/2026 | @tulipcolorsn | Tulip Color SN — fotocopias/imprenta digital, San Nicolás |
 | 09/10/2026 | @mafaldagrafica | Mafalda Gráfica — imprenta digital y gran formato/diseño gráfico, Villa Constitución |
+| 10/10/2026 | @inmobiliariacartey | Cartey Inmobiliaria — inmobiliaria (+40 años), San Nicolás |
+| 10/10/2026 | @inmobiliariakarinarossi | Inmobiliaria Karina Rossi — inmobiliaria, San Nicolás |
+| 10/10/2026 | @famproyectosinmobiliarios | FAM Proyectos Inmobiliarios — inmobiliaria con local propio, San Nicolás |
+| 10/10/2026 | @taverniti.sn | Taverniti San Nicolás — ropa y calzado de hombre (local de cadena), San Nicolás |
+| 10/10/2026 | @laesquina.automotores | La Esquina Automotores — concesionaria de usados, San Nicolás |
+| 10/10/2026 | @petonautos | Petón Autos — concesionaria (13-14 años), San Nicolás |
+| 10/10/2026 | @automotoresmonserratt | Automotores Monserratt — concesionaria (40 años), San Nicolás |
