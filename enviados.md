@@ -392,3 +392,13 @@
 | 10/10/2026 | @laesquina.automotores | La Esquina Automotores — concesionaria de usados, San Nicolás |
 | 10/10/2026 | @petonautos | Petón Autos — concesionaria (13-14 años), San Nicolás |
 | 10/10/2026 | @automotoresmonserratt | Automotores Monserratt — concesionaria (40 años), San Nicolás |
+| 11/10/2026 | @floow_sn | Floow — indumentaria y accesorios unisex, San Nicolás |
+| 11/10/2026 | @lot_sn | LOTSN — indumentaria masculina, San Nicolás |
+| 11/10/2026 | @modasmitre | Modas Mitre — boutique de ropa, San Nicolás |
+| 11/10/2026 | @bambisannicolas | Bambi — ropa para bebés y niños (desde 1958), San Nicolás |
+| 11/10/2026 | @fragancias.ps | Fragancias PS — perfumería/cosmética, San Nicolás |
+| 11/10/2026 | @cantabriamuebles | Cantabria Muebles — muebles/bazar/decoración, San Pedro |
+| 11/10/2026 | @_villa_pilates_ | Villa Pilates — estudio de pilates con/sin máquinas, Villa Constitución |
+| 11/10/2026 | @ferreteriagraziani | Ferretería Graziani — ferretería, Empalme Villa Constitución |
+| 11/10/2026 | @laveneciana_ | Panadería La Veneciana — panadería/confitería, Villa Constitución |
+| 11/10/2026 | @tilotiendanatural | Tilo Tienda Natural — dietética/alimentos saludables, San Nicolás |
