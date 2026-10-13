@@ -402,3 +402,13 @@
 | 11/10/2026 | @ferreteriagraziani | Ferretería Graziani — ferretería, Empalme Villa Constitución |
 | 11/10/2026 | @laveneciana_ | Panadería La Veneciana — panadería/confitería, Villa Constitución |
 | 11/10/2026 | @tilotiendanatural | Tilo Tienda Natural — dietética/alimentos saludables, San Nicolás |
+| 13/10/2026 | @rincon.de.luz | Rincón de Luz — residencia geriátrica, San Nicolás |
+| 13/10/2026 | @box.sanfelipe | Box San Felipe — entrenamiento funcional/crossfit, San Nicolás |
+| 13/10/2026 | @sefyl.store | Sefyl — control de plagas y fumigaciones, San Nicolás |
+| 13/10/2026 | @laenoteca.vinos | La Enoteca — vinoteca y regalos, San Nicolás |
+| 13/10/2026 | @sportssannicolas | Sports San Nicolás — indumentaria deportiva, San Nicolás |
+| 13/10/2026 | @loguearte.design | Loguearte Design — artículos sublimados/diseño gráfico, San Nicolás |
+| 13/10/2026 | @electronica_san_nicolas | Electrónica San Nicolás — electricidad/CCTV, San Nicolás |
+| 13/10/2026 | @fullstamp | Fullstamp — estampados y sublimados, San Nicolás |
+| 13/10/2026 | @ruymeltessi | Tessitura — uniformes empresariales y escolares, San Nicolás |
+| 13/10/2026 | @siatiendademascotas | SIA Tienda de Mascotas — alimento balanceado y accesorios, San Nicolás |
