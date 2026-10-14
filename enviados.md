@@ -412,3 +412,13 @@
 | 13/10/2026 | @fullstamp | Fullstamp — estampados y sublimados, San Nicolás |
 | 13/10/2026 | @ruymeltessi | Tessitura — uniformes empresariales y escolares, San Nicolás |
 | 13/10/2026 | @siatiendademascotas | SIA Tienda de Mascotas — alimento balanceado y accesorios, San Nicolás |
+| 14/10/2026 | @villacatalansn | Villa Catalán — salón de eventos (bodas/XV/cumpleaños), San Nicolás |
+| 14/10/2026 | @perepepesn | Pere Pepe — salón de eventos, San Nicolás |
+| 14/10/2026 | @tronchoniartesanal | Heladería Tronchoni Artesanal — heladería histórica (+77 años), San Nicolás |
+| 14/10/2026 | @viveromijardinsn | Mi Jardín Vivero — vivero/plantas y jardinería, San Nicolás |
+| 14/10/2026 | @instituto.arcoiris | Instituto Arco Iris — centro educativo terapéutico/integración escolar, San Nicolás y Villa Constitución |
+| 14/10/2026 | @feliciaheladosvilla | Felicia Helados y Café — heladería/cafetería, Villa Constitución |
+| 14/10/2026 | @rotiseria_la_esquina | Rotisería La Esquina — rotisería (+20 años), Villa Ramallo |
+| 14/10/2026 | @tecnoshop.sn | Tecno Shop — venta y reparación de celulares/accesorios, San Nicolás |
+| 14/10/2026 | @grafftsannicolas | Grafft San Nicolás — librería/regalería/juguetería/marroquinería, San Nicolás |
+| 14/10/2026 | @go.sannicolas | GO San Nicolás — sanatorio y centros médicos, San Nicolás |
