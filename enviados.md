@@ -422,3 +422,13 @@
 | 14/10/2026 | @tecnoshop.sn | Tecno Shop — venta y reparación de celulares/accesorios, San Nicolás |
 | 14/10/2026 | @grafftsannicolas | Grafft San Nicolás — librería/regalería/juguetería/marroquinería, San Nicolás |
 | 14/10/2026 | @go.sannicolas | GO San Nicolás — sanatorio y centros médicos, San Nicolás |
+| 15/10/2026 | @sannicolasvete | San Nicolás Veterinaria — veterinaria, San Nicolás |
+| 15/10/2026 | @lk.librerias | LK Librerías — librería/papelería, San Nicolás |
+| 15/10/2026 | @boyadeportes | Boya Deportes — indumentaria y calzado deportivo, Villa Constitución |
+| 15/10/2026 | @distritodanzaa | Distrito Danza — escuela de danza, San Pedro |
+| 15/10/2026 | @opticapena | Óptica Peña — óptica, San Nicolás |
+| 15/10/2026 | @electrohogarcampogar | Electro Hogar / Campogar — electrodomésticos y hogar, San Nicolás |
+| 15/10/2026 | @pintureria_sannicolas | Pinturería San Nicolás — pintura automotriz y de obra, San Nicolás |
+| 15/10/2026 | @farmacia_calviello | Farmacia Calviello — farmacia, Villa Constitución |
+| 15/10/2026 | @gala.aberturas | Gala Aberturas — herrería/aberturas a medida, San Nicolás |
+| 15/10/2026 | @mueblesdyc | DyC Muebles — mueblería/fabricación de muebles, San Nicolás |
