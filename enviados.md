@@ -432,3 +432,13 @@
 | 15/10/2026 | @farmacia_calviello | Farmacia Calviello — farmacia, Villa Constitución |
 | 15/10/2026 | @gala.aberturas | Gala Aberturas — herrería/aberturas a medida, San Nicolás |
 | 15/10/2026 | @mueblesdyc | DyC Muebles — mueblería/fabricación de muebles, San Nicolás |
+| 16/10/2026 | @sannicolaslawntennis | San Nicolás Lawn Tennis Club — club de tenis (fundado 1915), San Nicolás |
+| 16/10/2026 | @sannicolasgolfclub | San Nicolás Golf Club — club de golf (desde 1968), San Nicolás |
+| 16/10/2026 | @plantabaja_coffee | Cafetería Planta Baja — cafetería, San Nicolás |
+| 16/10/2026 | @cheekysannicolas | Cheeky San Nicolás — indumentaria infantil (franquicia), San Nicolás |
+| 16/10/2026 | @klaseuniformes.sn | Klase Uniformes SN — uniformes escolares y profesionales, San Nicolás |
+| 16/10/2026 | @elcastanopan_sannicolas | Panadería El Castaño "Plaza Galias" — panadería (desde 1992), San Nicolás |
+| 16/10/2026 | @swag.barber | Swag Barber (Emanuel Roda) — barbería premium/master barber, San Nicolás |
+| 16/10/2026 | @tmc_sannicolas | The Makeup Center San Nicolás — academia de maquillaje profesional, San Nicolás |
+| 16/10/2026 | @foot_balancesn | Foot Balance — plantillas ortopédicas personalizadas, San Nicolás |
+| 16/10/2026 | @ortopediahsn.sn | Ortopedia Foothouse HSN — plantillas ortopédicas deportivas (ISO 9001), San Nicolás |
