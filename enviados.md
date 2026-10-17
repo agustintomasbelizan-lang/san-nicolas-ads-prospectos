@@ -442,3 +442,7 @@
 | 16/10/2026 | @tmc_sannicolas | The Makeup Center San Nicolás — academia de maquillaje profesional, San Nicolás |
 | 16/10/2026 | @foot_balancesn | Foot Balance — plantillas ortopédicas personalizadas, San Nicolás |
 | 16/10/2026 | @ortopediahsn.sn | Ortopedia Foothouse HSN — plantillas ortopédicas deportivas (ISO 9001), San Nicolás |
+| 17/10/2026 | @elumbralneumaticos | El Umbral Neumáticos (Dunlop Tire Center) — gomería/mecánica general, San Nicolás |
+| 17/10/2026 | @clubpescadores_sp | Club Pescadores y Náutica de San Pedro — club social/deportivo náutico, San Pedro |
+| 17/10/2026 | @valenciapadel | Valencia Pádel — complejo de pádel, Villa Constitución |
+| 17/10/2026 | @guarderiaramallo | Guardería Náutica Ramallo — guardería/amarre de embarcaciones, Ramallo |
