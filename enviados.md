@@ -447,7 +447,6 @@
 | 17/10/2026 | @valenciapadel | Valencia Pádel — complejo de pádel, Villa Constitución |
 | 17/10/2026 | @guarderiaramallo | Guardería Náutica Ramallo — guardería/amarre de embarcaciones, Ramallo |
 | 18/10/2026 | @dalisushi | Dali Sushi — gastronomía (sushi/fusión asiática, delivery), San Nicolás |
-| 18/10/2026 | @itosannicolas | ITO Instituto de Traumatología y Ortopedia — salud/traumatología, San Nicolás |
 | 18/10/2026 | @instituto.cardio.s.n | ICEM Instituto de Cardiología y Especialidades Médicas — salud/cardiología, San Nicolás |
 | 18/10/2026 | @oipsasalud | OIPSA Salud SRL — internación domiciliaria/salud a domicilio, San Nicolás |
 | 18/10/2026 | @boxingcapital_sannicolas | Boxing Capital San Nicolás — gimnasio de boxeo, San Nicolás |
