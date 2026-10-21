@@ -451,3 +451,11 @@
 | 18/10/2026 | @oipsasalud | OIPSA Salud SRL — internación domiciliaria/salud a domicilio, San Nicolás |
 | 18/10/2026 | @boxingcapital_sannicolas | Boxing Capital San Nicolás — gimnasio de boxeo, San Nicolás |
 | 18/10/2026 | @krakenfitbox | Kraken Box — gimnasio de boxeo/fitness funcional, San Pedro |
+| 21/10/2026 | @britanniasannicolas | Britannia San Nicolás — academia de inglés, San Nicolás |
+| 21/10/2026 | @baladoabogados | Balado Abogados — estudio jurídico (laboral/civil/comercial), San Nicolás y Pinamar |
+| 21/10/2026 | @heladeriareal_san_pedro | Heladería Real — heladería artesanal (desde 1985), San Pedro |
+| 21/10/2026 | @panaderia_sucesso | Panadería y Confitería Sucesso — panadería/confitería, Villa Constitución |
+| 21/10/2026 | @opticasanpedro_ | Óptica San Pedro — óptica, San Pedro |
+| 21/10/2026 | @tapigon.fg | Tapicería Tapigon — tapizados/cerramientos a medida, San Pedro |
+| 21/10/2026 | @rusticomuebles | Rustico Muebles — mueblería/muebles a medida, San Pedro |
+| 21/10/2026 | @santos_bikers | Santos Bikers — venta de motocicletas (desde 1999), San Pedro |
