@@ -459,3 +459,13 @@
 | 21/10/2026 | @tapigon.fg | Tapicería Tapigon — tapizados/cerramientos a medida, San Pedro |
 | 21/10/2026 | @rusticomuebles | Rustico Muebles — mueblería/muebles a medida, San Pedro |
 | 21/10/2026 | @santos_bikers | Santos Bikers — venta de motocicletas (desde 1999), San Pedro |
+| 22/10/2026 | @makleo_libreria | Makleo Librería y Papelería — librería escolar/comercial/artística, San Pedro |
+| 22/10/2026 | @valenziana.sannicolas | Valenziana San Nicolás — punto de venta local de mueblería, San Nicolás |
+| 22/10/2026 | @viverolosdospinos | Vivero Los Dos Pinos — vivero productor, San Pedro |
+| 22/10/2026 | @lostroncos_sanpedro | Cabañas Los Troncos — alojamiento/turismo sobre el Paraná, San Pedro |
+| 22/10/2026 | @parrillavip_by_kuka | Parrilla Vip by Kuka — parrilla de ruta, Río Tala, San Pedro |
+| 22/10/2026 | @panaderiayconfiteria505 | 505 Panadería, Pastelería y Rotisería — gastronomía, San Pedro |
+| 22/10/2026 | @kinesportsan | KineSport San Pedro — kinesiología/rehabilitación deportiva, San Pedro |
+| 22/10/2026 | @sportlife_villaconstitucion | Sport Life — indumentaria y calzado deportivo, Villa Constitución |
+| 22/10/2026 | @outletdelcalzado_vt | Outlet del Calzado — zapatería familiar, Villa Constitución |
+| 22/10/2026 | @consentidospetshop15 | Consentidos Pet Shop — petshop/grooming canino, Villa Ramallo |
