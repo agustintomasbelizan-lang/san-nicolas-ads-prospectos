@@ -469,3 +469,12 @@
 | 22/10/2026 | @sportlife_villaconstitucion | Sport Life — indumentaria y calzado deportivo, Villa Constitución |
 | 22/10/2026 | @outletdelcalzado_vt | Outlet del Calzado — zapatería familiar, Villa Constitución |
 | 22/10/2026 | @consentidospetshop15 | Consentidos Pet Shop — petshop/grooming canino, Villa Ramallo |
+| 23/10/2026 | @inmobdiaz | Inmobiliaria Diaz — inmobiliaria, San Nicolás |
+| 23/10/2026 | @jurisconsultasok | Juris Consultas (Dr. Sergio Iván Cej) — estudio jurídico penal/laboral/extranjería, San Nicolás |
+| 23/10/2026 | @laureanomotosok | Laureano Motos — concesionaria oficial de motos (KYMCO), San Nicolás |
+| 23/10/2026 | @complejo_elprado | El Prado Pádel — complejo de pádel, San Nicolás |
+| 23/10/2026 | @el.galpon.padel | El Galpón Pádel — complejo de pádel, San Nicolás |
+| 23/10/2026 | @grupofenix_sn | Farmacia Fénix — farmacia, San Nicolás |
+| 23/10/2026 | @farmaciagarcia | Farmacia García — farmacia de barrio, San Nicolás |
+| 23/10/2026 | @inmobiliaria_wiengreen | Inmobiliaria Wiengreen — inmobiliaria, San Nicolás |
+| 23/10/2026 | @inmobiliariapuyella | Inmobiliaria Puyella — inmobiliaria (45 años), San Nicolás |
