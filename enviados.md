@@ -478,3 +478,13 @@
 | 23/10/2026 | @farmaciagarcia | Farmacia García — farmacia de barrio, San Nicolás |
 | 23/10/2026 | @inmobiliaria_wiengreen | Inmobiliaria Wiengreen — inmobiliaria, San Nicolás |
 | 23/10/2026 | @inmobiliariapuyella | Inmobiliaria Puyella — inmobiliaria (45 años), San Nicolás |
+| 24/10/2026 | @sandwicheria.paraiso | Sándwicheria el Paraíso — gastronomía/sandwichería, San Nicolás |
+| 24/10/2026 | @lacriolla.empanadas | La Criolla — empanadas y tartas caseras, San Nicolás |
+| 24/10/2026 | @elmolinohaedo | El Molino Casa de Comidas — gastronomía, Ramallo |
+| 24/10/2026 | @davorsanpedro | Davor — indumentaria masculina y calzado, San Pedro |
+| 24/10/2026 | @cantinanautica | Cantina Náutica — gastronomía con vista al río (Club Náutico), San Pedro |
+| 24/10/2026 | @viacostaparrillaresto | Vía Costa Parrilla & Restó — gastronomía/parrilla de pescado, San Pedro |
+| 24/10/2026 | @onixnutricionyestetica | Onix Nutrición y Estética — centro de estética/nutrición, San Pedro |
+| 24/10/2026 | @distribuidora_guapasbycary | Distribuidora Guapas — distribuidora mayorista de insumos de peluquería/estética, San Pedro |
+| 24/10/2026 | @masajes.carla | Masajes Carla (Carla González) — masajista independiente, San Pedro |
+| 24/10/2026 | @criolloslaquerencia2024 | Restobar Popular Criollo's La Querencia — gastronomía, Vuelta de Obligado, San Pedro |
