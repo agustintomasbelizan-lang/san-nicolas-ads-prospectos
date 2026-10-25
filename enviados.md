@@ -488,3 +488,13 @@
 | 24/10/2026 | @distribuidora_guapasbycary | Distribuidora Guapas — distribuidora mayorista de insumos de peluquería/estética, San Pedro |
 | 24/10/2026 | @masajes.carla | Masajes Carla (Carla González) — masajista independiente, San Pedro |
 | 24/10/2026 | @criolloslaquerencia2024 | Restobar Popular Criollo's La Querencia — gastronomía, Vuelta de Obligado, San Pedro |
+| 25/10/2026 | @bazar.san.nico | Bazar San Nico — bazar de emprendedores/marcas locales, San Nicolás |
+| 25/10/2026 | @sanatorio_fnsr | Fundación Nuestra Señora de Rosario — sanatorio/salud, San Nicolás |
+| 25/10/2026 | @lomasderamallo | Cabañas Lomas de Ramallo — turismo/alojamiento sobre el Paraná, Ramallo |
+| 25/10/2026 | @bingoramallo | Bingo Ramallo — salón de entretenimiento/juegos, Ramallo |
+| 25/10/2026 | @noeliacentrodestetica | Noelia Centro de Estética — depilación láser/estética, San Nicolás |
+| 25/10/2026 | @centro_estetica_sensaciones | Estética Sensaciones — centro de estética facial/corporal, San Nicolás |
+| 25/10/2026 | @transportehenin | Transporte Henin — transporte de cargas y encomiendas, San Nicolás |
+| 25/10/2026 | @edisan.constructora | Edisan Arquitectura & Construcción — constructora (+30 años), San Nicolás |
+| 25/10/2026 | @tallerstelzer2023 | TallerSTELZER — gomería/alineación y balanceo, San Nicolás |
+| 25/10/2026 | @charlesdickensinstituteok | Charles Dickens Institute — instituto de inglés, San Pedro |
