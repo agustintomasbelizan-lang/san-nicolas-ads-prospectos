@@ -498,3 +498,13 @@
 | 25/10/2026 | @edisan.constructora | Edisan Arquitectura & Construcción — constructora (+30 años), San Nicolás |
 | 25/10/2026 | @tallerstelzer2023 | TallerSTELZER — gomería/alineación y balanceo, San Nicolás |
 | 25/10/2026 | @charlesdickensinstituteok | Charles Dickens Institute — instituto de inglés, San Pedro |
+| 26/10/2026 | @segurcarsegurossn | Segurcar Seguros — productor de seguros, San Nicolás |
+| 26/10/2026 | @marianoabad10 | Mariano Abad Fotografía — fotografía de eventos/retratos, San Nicolás |
+| 26/10/2026 | @centro_especialidades_medicas | Centro Especialidades Médicas — clínica médica/neurología, Villa Ramallo |
+| 26/10/2026 | @c.i.d.consultorio | C.I.D. Consultorio — estimulación temprana/rehabilitación infantil, Villa Ramallo |
+| 26/10/2026 | @consultoriosmitre.vr | Consultorios Mitre — consultorios médicos multiespecialidad, Villa Ramallo |
+| 26/10/2026 | @cemorconsultorios | CEMOR Consultorios — centro médico-odontológico, Villa Ramallo |
+| 26/10/2026 | @joyeriasanpedro | Joyería San Pedro — joyería/relojería (desde 1963), San Pedro |
+| 26/10/2026 | @namastesanpedro | Namasté Cabañas San Pedro — turismo/alojamiento, San Pedro |
+| 26/10/2026 | @ferreteriasanpedro | Ferretería San Pedro — ferretería/materiales de construcción, San Pedro |
+| 26/10/2026 | @caprichos.vc | Caprichos VC — librería/juguetería/bazar, Villa Constitución |
