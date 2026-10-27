@@ -508,3 +508,6 @@
 | 26/10/2026 | @namastesanpedro | Namasté Cabañas San Pedro — turismo/alojamiento, San Pedro |
 | 26/10/2026 | @ferreteriasanpedro | Ferretería San Pedro — ferretería/materiales de construcción, San Pedro |
 | 26/10/2026 | @caprichos.vc | Caprichos VC — librería/juguetería/bazar, Villa Constitución |
+| 27/10/2026 | @pilatesnachoarroyo | Pilates Nacho Arroyo — estudio de pilates/entrenamiento individual, San Nicolás |
+| 27/10/2026 | @loderobles | Lo de Robles Mueblería — mueblería con +60 años de trayectoria, San Nicolás |
+| 27/10/2026 | @barbuttisanpedro | Bar Butti — bar/restaurante histórico (desde 1928), San Pedro |
