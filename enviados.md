@@ -511,3 +511,13 @@
 | 27/10/2026 | @pilatesnachoarroyo | Pilates Nacho Arroyo — estudio de pilates/entrenamiento individual, San Nicolás |
 | 27/10/2026 | @loderobles | Lo de Robles Mueblería — mueblería con +60 años de trayectoria, San Nicolás |
 | 27/10/2026 | @barbuttisanpedro | Bar Butti — bar/restaurante histórico (desde 1928), San Pedro |
+| 28/10/2026 | @cumbrenevadasannicolas | Cumbre Nevada San Nicolás — heladería/cafetería, San Nicolás |
+| 28/10/2026 | @opticavisionvc | Óptica Visión — óptica, Villa Constitución |
+| 28/10/2026 | @pinturassanpedro | Pinturas San Pedro — fábrica/venta de pinturas, San Pedro |
+| 28/10/2026 | @panaderiaelencuentro | Panadería El Encuentro — panadería/pastelería artesanal, San Pedro |
+| 28/10/2026 | @esparrica_pinturerias | Esparrica Pinturerías — pinturería (distribuidor oficial ALBA/PPG), Villa Constitución |
+| 28/10/2026 | @colorbox.sn | ColorBox — salón de fiestas infantiles/eventos, San Nicolás |
+| 28/10/2026 | @fletes_sanpedro | Fletes San Pedro — mudanzas/fletes, San Pedro |
+| 28/10/2026 | @transportemarceloexpress | Transporte Marcelo Express — fletes/mudanzas larga distancia, San Pedro |
+| 28/10/2026 | @bachatahousesannicolas | Bachata House San Nicolás — academia de baile, San Nicolás |
+| 28/10/2026 | @byleiladonzella | El arco iris de tortikas (Leila Donzella) — pastelería de tortas personalizadas, San Nicolás |
