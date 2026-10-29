@@ -521,3 +521,7 @@
 | 28/10/2026 | @transportemarceloexpress | Transporte Marcelo Express — fletes/mudanzas larga distancia, San Pedro |
 | 28/10/2026 | @bachatahousesannicolas | Bachata House San Nicolás — academia de baile, San Nicolás |
 | 28/10/2026 | @byleiladonzella | El arco iris de tortikas (Leila Donzella) — pastelería de tortas personalizadas, San Nicolás |
+| 29/10/2026 | @labarra.sanpedro | La Barra — bar/parador social, San Pedro |
+| 29/10/2026 | @profit_gym | ProFit Center — fitness/rehabilitación personalizada, San Pedro |
+| 29/10/2026 | @afsanpedro | Anytime Fitness San Pedro — gimnasio (franquicia), San Pedro |
+| 29/10/2026 | @esenciasdecasagrande | Esencias de Casa Grande — velas/fragancias para el hogar, San Pedro |
