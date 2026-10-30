@@ -525,3 +525,13 @@
 | 29/10/2026 | @profit_gym | ProFit Center — fitness/rehabilitación personalizada, San Pedro |
 | 29/10/2026 | @afsanpedro | Anytime Fitness San Pedro — gimnasio (franquicia), San Pedro |
 | 29/10/2026 | @esenciasdecasagrande | Esencias de Casa Grande — velas/fragancias para el hogar, San Pedro |
+| 30/10/2026 | @escuelademusica.na | Escuela de Música (prof. Nicolás Acosta) — academia de música, San Nicolás |
+| 30/10/2026 | @agro2000_ | Agro2000 S.R.L. — insumos agropecuarios, San Nicolás |
+| 30/10/2026 | @mbdistribuidoraa | MB Distribuidora — distribuidora mayorista de insumos de peluquería/barbería, San Nicolás |
+| 30/10/2026 | @academiatenis92 | Academia Tenis 92 — academia de tenis y pádel (desde 1992), San Nicolás |
+| 30/10/2026 | @tedelluvia | Salón de Té "Te de Lluvia" — salón de té/cafetería, San Nicolás |
+| 30/10/2026 | @salondetemabel | Salón de Té Mabel — salón de té, San Nicolás |
+| 30/10/2026 | @automovilessrl | Automóviles S.R.L. — concesionaria de vehículos 0km y usados, San Nicolás |
+| 30/10/2026 | @masbien__ | Más Bien — zapatería/calzado, Villa Ramallo |
+| 30/10/2026 | @mercisn | Merci — tienda de ropa femenina, San Nicolás |
+| 30/10/2026 | @24sanmartin | Drugstore 24 San Martín — kiosco/drugstore 24hs multi-sucursal, San Nicolás |
