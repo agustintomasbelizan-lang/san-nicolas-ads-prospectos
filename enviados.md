@@ -535,3 +535,13 @@
 | 30/10/2026 | @masbien__ | Más Bien — zapatería/calzado, Villa Ramallo |
 | 30/10/2026 | @mercisn | Merci — tienda de ropa femenina, San Nicolás |
 | 30/10/2026 | @24sanmartin | Drugstore 24 San Martín — kiosco/drugstore 24hs multi-sucursal, San Nicolás |
+| 31/10/2026 | @clinicadentalarroyo | Clínica Dental Arroyo — odontología integral, San Nicolás |
+| 31/10/2026 | @clinicaarroyodental | Clínica ArroyoDental — odontología integral, San Nicolás |
+| 31/10/2026 | @barberia_de_nico | Barbería Nico — barbería masculina, San Nicolás |
+| 31/10/2026 | @crash.sn | Distribuidora Crash — distribuidora mayorista de alimentos (kioscos/súper), San Nicolás |
+| 31/10/2026 | @clinicasvillaestetica | Clínica Villa Estética — medicina estética/nutrición, Villa Constitución |
+| 31/10/2026 | @farmaciasacconi | Farmacia Sacconi — farmacia, Villa Constitución |
+| 31/10/2026 | @trascendersp | Trascender San Pedro — pilates/yoga/danzas folklóricas, San Pedro |
+| 31/10/2026 | @empowerpilatessanpedro | Empower Pilates San Pedro — estudio de pilates reformer, San Pedro |
+| 31/10/2026 | @consultoriossancamilo | Consultorios San Camilo — consultorios médicos multiespecialidad, San Pedro |
+| 31/10/2026 | @consultoriosemij | Consultorios Emij — estimulación temprana/apoyo escolar, San Pedro |
