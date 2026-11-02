@@ -545,3 +545,13 @@
 | 31/10/2026 | @empowerpilatessanpedro | Empower Pilates San Pedro — estudio de pilates reformer, San Pedro |
 | 31/10/2026 | @consultoriossancamilo | Consultorios San Camilo — consultorios médicos multiespecialidad, San Pedro |
 | 31/10/2026 | @consultoriosemij | Consultorios Emij — estimulación temprana/apoyo escolar, San Pedro |
+| 02/11/2026 | @arrecifejoyeria | Arrecife Joyería — joyería en oro 10k/14k, San Nicolás |
+| 02/11/2026 | @ind.maria_ | Maria ind. — indumentaria femenina, Villa Constitución |
+| 02/11/2026 | @full.gymsn | Full Gym San Nicolás — productos de gimnasio/fitness y boxeo, San Nicolás |
+| 02/11/2026 | @docviajes | DOC Viajes — agencia de viajes y turismo, San Nicolás |
+| 02/11/2026 | @mbunisex | MB Barber/Unisex — barbería y peluquería, San Nicolás |
+| 02/11/2026 | @funplanetvalle | Fun Planet Valle — salón de fiestas infantiles, San Pedro |
+| 02/11/2026 | @pizzeriajano2 | Pizzería Jano — pizzería con delivery, San Nicolás |
+| 02/11/2026 | @lega.clas | Bicicletería Lega Clas — venta de bicicletas y repuestos, San Nicolás |
+| 02/11/2026 | @garzabikes | Garza Bikes — bicicletería MTB y accesorios, San Nicolás |
+| 02/11/2026 | @jomarprepisn | Jomar Pre-pizzas San Nicolás — venta de pre-pizzas, San Nicolás |
