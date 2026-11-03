@@ -555,3 +555,13 @@
 | 02/11/2026 | @lega.clas | Bicicletería Lega Clas — venta de bicicletas y repuestos, San Nicolás |
 | 02/11/2026 | @garzabikes | Garza Bikes — bicicletería MTB y accesorios, San Nicolás |
 | 02/11/2026 | @jomarprepisn | Jomar Pre-pizzas San Nicolás — venta de pre-pizzas, San Nicolás |
+| 03/11/2026 | @cortigabriela_inmobiliaria | Gabriela Corti Soluciones Inmobiliarias — inmobiliaria, Villa Constitución |
+| 03/11/2026 | @camachoinmobiliariasp | Inmobiliaria Camacho — inmobiliaria (+44 años), San Pedro |
+| 03/11/2026 | @santosmanjaress | Santos Manjares — parrilla, San Nicolás |
+| 03/11/2026 | @estacion_growler | Estación Growler — cervecería artesanal, San Nicolás |
+| 03/11/2026 | @laimprenta.digital | La Imprenta — imprenta/gráfica y cartelería, San Nicolás |
+| 03/11/2026 | @launionmateriales | La Unión Materiales para la Construcción — corralón/ferretería, San Nicolás |
+| 03/11/2026 | @vica.conamor | Vica Con Amor — regalería de diseño/bazar/deco, San Nicolás |
+| 03/11/2026 | @coquitos.sn | Coquito's San Nicolás — supermercado natural/dietética, San Nicolás |
+| 03/11/2026 | @vetepatitas | Veterinaria Patitas — clínica veterinaria y pet shop, San Pedro |
+| 03/11/2026 | @lavadero_clean | Lavadero Clean Car — lavadero de autos/detailing, San Nicolás |
