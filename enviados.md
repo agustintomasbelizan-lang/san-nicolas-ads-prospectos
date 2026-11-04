@@ -565,3 +565,12 @@
 | 03/11/2026 | @coquitos.sn | Coquito's San Nicolás — supermercado natural/dietética, San Nicolás |
 | 03/11/2026 | @vetepatitas | Veterinaria Patitas — clínica veterinaria y pet shop, San Pedro |
 | 03/11/2026 | @lavadero_clean | Lavadero Clean Car — lavadero de autos/detailing, San Nicolás |
+| 04/11/2026 | @centroclinicosannicolas | Centro Clínico San Nicolás — clínica médica general, San Nicolás |
+| 04/11/2026 | @clinicasanicolas | Clínica San Nicolas Antigua — diagnóstico por imágenes/pediatría/laboratorio, San Nicolás |
+| 04/11/2026 | @sannicolascf | Centro Formación San Nicolás — instituto de capacitación, San Nicolás |
+| 04/11/2026 | @agueroneumaticos | Agüero Neumáticos — gomería/neumáticos y baterías, San Nicolás |
+| 04/11/2026 | @schoko_heladosycafe | Schôkô — heladería artesanal y café de especialidad, San Nicolás |
+| 04/11/2026 | @laelegancia.bns | Zapatería La Elegancia — calzado (+60 años), San Nicolás |
+| 04/11/2026 | @institutosanicolas | Instituto San Nicolás — jardín y nivel primario, San Nicolás |
+| 04/11/2026 | @nice.tsas | NICE indumentaria — indumentaria femenina, San Nicolás |
+| 04/11/2026 | @institutosep.ok | Instituto Superior SEP San Nicolás — educación terciaria, San Nicolás |
