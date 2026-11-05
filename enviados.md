@@ -574,3 +574,13 @@
 | 04/11/2026 | @institutosanicolas | Instituto San Nicolás — jardín y nivel primario, San Nicolás |
 | 04/11/2026 | @nice.tsas | NICE indumentaria — indumentaria femenina, San Nicolás |
 | 04/11/2026 | @institutosep.ok | Instituto Superior SEP San Nicolás — educación terciaria, San Nicolás |
+| 05/11/2026 | @perfushopvillaramallo | Perfushop Villa Ramallo — perfumería/cosmética, Villa Ramallo |
+| 05/11/2026 | @joyeriadcastro | D'Castro Joyería — joyería/relojería, Villa Constitución |
+| 05/11/2026 | @clinica__sanpedro | Clínica San Pedro — salud multidisciplinaria, San Pedro |
+| 05/11/2026 | @viasport136 | Via Sport Villa Ramallo — indumentaria deportiva urbana, Villa Ramallo |
+| 05/11/2026 | @lorenabarrientosfotografia | Lorena Barrientos Fotografía — fotografía infantil/familiar, San Nicolás |
+| 05/11/2026 | @samet.eventos | Samet Eventos — salón de fiestas y organización de eventos, San Nicolás |
+| 05/11/2026 | @lexis.ingles | Lexis Idiomas — instituto de inglés, San Nicolás |
+| 05/11/2026 | @assemble.ballet | Assemblé Ballet — academia de danza/ballet, San Nicolás |
+| 05/11/2026 | @heladoslido | Helados Lido — heladería artesanal/cafetería (desde 1973), Ramallo |
+| 05/11/2026 | @midas.cerveza.sp | MIDAS Cerveza Artesanal — cervecería artesanal familiar, San Pedro |
