@@ -584,3 +584,13 @@
 | 05/11/2026 | @assemble.ballet | Assemblé Ballet — academia de danza/ballet, San Nicolás |
 | 05/11/2026 | @heladoslido | Helados Lido — heladería artesanal/cafetería (desde 1973), Ramallo |
 | 05/11/2026 | @midas.cerveza.sp | MIDAS Cerveza Artesanal — cervecería artesanal familiar, San Pedro |
+| 06/11/2026 | @artroboneortopedia | Ortopedia Artrobone — venta/alquiler de equipamiento ortopédico, San Nicolás |
+| 06/11/2026 | @ortopediagesuitti | Ortopedia Gesuitti — plantillas/prótesis/corsés/férulas a medida, San Nicolás |
+| 06/11/2026 | @sannicolasfloristas | San Nicolás Floristas — florería (+20 años), San Nicolás |
+| 06/11/2026 | @la.costureria | La Costurería — diseño textil/indumentaria a medida, San Nicolás |
+| 06/11/2026 | @estudiopilatesyoga | eStudio Pilates + Yoga — estudio de pilates reformer y yoga, San Nicolás |
+| 06/11/2026 | @equilibrio_sn | Equilibrio Pilates Estudio — estudio de pilates, San Nicolás |
+| 06/11/2026 | @calcosssn | Calcomanías San Nicolás — vinilos/calcos y gráfica vehicular, San Nicolás |
+| 06/11/2026 | @cojonesbarberia | Cojones Barbería - Peluquería — barbería masculina con turno previo, San Nicolás |
+| 06/11/2026 | @jugueteriacaprichos | Juguetería Caprichos — juguetería y bazar (25 años), San Nicolás |
+| 06/11/2026 | @peluqueriacaninaguau | Peluquería Canina Guau — peluquería/estética canina, San Nicolás |
