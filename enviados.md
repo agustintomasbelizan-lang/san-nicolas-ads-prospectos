@@ -594,3 +594,13 @@
 | 06/11/2026 | @cojonesbarberia | Cojones Barbería - Peluquería — barbería masculina con turno previo, San Nicolás |
 | 06/11/2026 | @jugueteriacaprichos | Juguetería Caprichos — juguetería y bazar (25 años), San Nicolás |
 | 06/11/2026 | @peluqueriacaninaguau | Peluquería Canina Guau — peluquería/estética canina, San Nicolás |
+| 08/11/2026 | @santosshop_oficial | Santos Shop — indumentaria unisex con venta online, San Nicolás |
+| 08/11/2026 | @reposteriasannicolas | Repostería San Nicolás — repostería/pastelería, San Nicolás |
+| 08/11/2026 | @micaelaschar | Micaela Schär — modista y diseñadora de indumentaria, San Nicolás |
+| 08/11/2026 | @arqpablobruno | Arq. Pablo Bruno — estudio de arquitectura y remodelación, San Nicolás |
+| 08/11/2026 | @distribuidoralagostena | Distribuidora Daniel Lagostena — insumos para panadería/confitería/repostería, San Nicolás |
+| 08/11/2026 | @elcaldensn | Regionales El Caldén — talabartería/artículos regionales/marroquinería/cuchillería, San Nicolás |
+| 08/11/2026 | @matestore.sn | Mates, Termos, Bombillas y Más — showroom y venta online de mates, San Nicolás |
+| 08/11/2026 | @la.matera.sn | La Matera — mates y yerbas seleccionadas, San Nicolás |
+| 08/11/2026 | @morellabebes | Morella Baby Shop — ajuar y regalería para bebés, San Nicolás |
+| 08/11/2026 | @ppigmento | Perfumerías Pigmento — perfumería/cosmética, San Nicolás |
