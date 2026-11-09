@@ -604,3 +604,9 @@
 | 08/11/2026 | @la.matera.sn | La Matera — mates y yerbas seleccionadas, San Nicolás |
 | 08/11/2026 | @morellabebes | Morella Baby Shop — ajuar y regalería para bebés, San Nicolás |
 | 08/11/2026 | @ppigmento | Perfumerías Pigmento — perfumería/cosmética, San Nicolás |
+| 09/11/2026 | @piscinasipcsannicolas | Piscinas IPC San Nicolás — venta/instalación de piscinas, San Nicolás |
+| 09/11/2026 | @ramallocyc | Ramallo Clima y Confort — climatización y energía solar, Ramallo |
+| 09/11/2026 | @dtb.indumentaria | DTB Diseños en Indumentaria — boutique de indumentaria de diseño, San Nicolás |
+| 09/11/2026 | @varela_paisajismo | Lucila Varela Paisajismo — diseño/mantenimiento de jardines, San Pedro |
+| 09/11/2026 | @wgclimatizacion | WG Climatización (Walter Gelabert) — instalación/mantenimiento de aire acondicionado, San Pedro/Baradero |
+| 09/11/2026 | @tecnosp.aberturas | TecnoSP — fabricación de aberturas de PVC, San Pedro |
