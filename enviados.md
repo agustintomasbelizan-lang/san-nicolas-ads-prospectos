@@ -610,3 +610,13 @@
 | 09/11/2026 | @varela_paisajismo | Lucila Varela Paisajismo — diseño/mantenimiento de jardines, San Pedro |
 | 09/11/2026 | @wgclimatizacion | WG Climatización (Walter Gelabert) — instalación/mantenimiento de aire acondicionado, San Pedro/Baradero |
 | 09/11/2026 | @tecnosp.aberturas | TecnoSP — fabricación de aberturas de PVC, San Pedro |
+| 10/11/2026 | @_charlesbar_ | Charles Bar — bar nocturno (vie/sáb), San Nicolás |
+| 10/11/2026 | @hechizoeventos.sn | Hechizo Eventos — salón de fiestas y eventos, San Nicolás |
+| 10/11/2026 | @good.beersn | Good Beer — restaurante/cervecería, San Nicolás |
+| 10/11/2026 | @sanpedro.s.a | San Pedro Emprendimientos S.A. — inmobiliaria, San Pedro |
+| 10/11/2026 | @automexxautomotores | Automexx Automotores — concesionaria de autos usados, Villa Constitución |
+| 10/11/2026 | @nutricionpimpumpam | Lic. M. Laura Mangiaterra (Nutrición Pimpumpam) — consultorio de nutrición clínica, San Nicolás |
+| 10/11/2026 | @susantin_lagringa | La Gringa — talabartería e indumentaria de campo, San Pedro |
+| 10/11/2026 | @segurcarsegurossn | Segurcar Seguros — productor de seguros, San Nicolás |
+| 10/11/2026 | @thermec.s.r.l | Thermec S.R.L. — climatización y aire acondicionado (40 años), San Nicolás |
+| 10/11/2026 | @luksicstudio | Luksic Studio — maquillaje, skincare, uñas y cursos, Villa Constitución |
