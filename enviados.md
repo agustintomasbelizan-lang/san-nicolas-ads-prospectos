@@ -620,3 +620,7 @@
 | 10/11/2026 | @segurcarsegurossn | Segurcar Seguros — productor de seguros, San Nicolás |
 | 10/11/2026 | @thermec.s.r.l | Thermec S.R.L. — climatización y aire acondicionado (40 años), San Nicolás |
 | 10/11/2026 | @luksicstudio | Luksic Studio — maquillaje, skincare, uñas y cursos, Villa Constitución |
+| 11/11/2026 | @bardelteatrooficial | Bar del Teatro San Nicolás — bar/grill zona Teatro Municipal, San Nicolás |
+| 11/11/2026 | @cafedelaplazasn | Café de la Plaza — café/bar de desayunos y meriendas, San Nicolás |
+| 11/11/2026 | @elfaroclubsn | El Faro Club — bar con música en vivo, San Nicolás |
+| 11/11/2026 | @berlin_sanpedro | Berlin Resto Bar — resto-bar de ambiente nocturno, San Pedro |
