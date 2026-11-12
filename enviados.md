@@ -624,3 +624,8 @@
 | 11/11/2026 | @cafedelaplazasn | Café de la Plaza — café/bar de desayunos y meriendas, San Nicolás |
 | 11/11/2026 | @elfaroclubsn | El Faro Club — bar con música en vivo, San Nicolás |
 | 11/11/2026 | @berlin_sanpedro | Berlin Resto Bar — resto-bar de ambiente nocturno, San Pedro |
+| 12/11/2026 | @ellimarvc | Tienda Ellimar — indumentaria/textil, Villa Constitución |
+| 12/11/2026 | @croqueshoes | Croque Shoes — calzado, San Nicolás |
+| 12/11/2026 | @vivero_almacigo_san_pedro | Vivero (Almácigo) San Pedro — vivero/semillero para huerta, San Pedro |
+| 12/11/2026 | @alexisbranca | Alexis Branca — guía de pesca deportiva en el Paraná, San Pedro |
+| 12/11/2026 | @laboratorio_nasa | Nasa 3d — impresión 3D y piezas personalizadas, San Nicolás |
