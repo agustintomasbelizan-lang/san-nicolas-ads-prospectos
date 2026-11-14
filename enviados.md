@@ -629,3 +629,13 @@
 | 12/11/2026 | @vivero_almacigo_san_pedro | Vivero (Almácigo) San Pedro — vivero/semillero para huerta, San Pedro |
 | 12/11/2026 | @alexisbranca | Alexis Branca — guía de pesca deportiva en el Paraná, San Pedro |
 | 12/11/2026 | @laboratorio_nasa | Nasa 3d — impresión 3D y piezas personalizadas, San Nicolás |
+| 14/11/2026 | @ferraro.ventas | Ferraro Materiales — ferretería/materiales de construcción, San Nicolás |
+| 14/11/2026 | @pizzeriasannicolas1 | Pizzeria San Nicolás — pizzería con delivery, San Nicolás |
+| 14/11/2026 | @fletes.niko | Fletes Niko — mudanzas y fletes, San Nicolás |
+| 14/11/2026 | @carnespremium.sc | 3/4 Carnes Premium — carnicería boutique/vinos/quesos, San Nicolás |
+| 14/11/2026 | @ins.edinburgh | Instituto Edinburgh — colegio bilingüe/idiomas, San Nicolás |
+| 14/11/2026 | @vivesannicolas | Vive San Nicolás Turismo — agencia de turismo/viajes, San Nicolás |
+| 14/11/2026 | @lavaderodeautoswilde | Lavadero San Nicolás — lavadero y encerado de autos, San Nicolás |
+| 14/11/2026 | @gsnturismo | Grupo San Nicolás Turismo — agencia de turismo (Rosario/San Nicolás), San Nicolás |
+| 14/11/2026 | @inmobiliariatonelli | Inmobiliaria Tonelli — inmobiliaria, San Pedro |
+| 14/11/2026 | @royalenfieldsannicolas | Royal Enfield San Nicolás — concesionaria de motos premium, San Nicolás |
