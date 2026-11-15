@@ -639,3 +639,13 @@
 | 14/11/2026 | @gsnturismo | Grupo San Nicolás Turismo — agencia de turismo (Rosario/San Nicolás), San Nicolás |
 | 14/11/2026 | @inmobiliariatonelli | Inmobiliaria Tonelli — inmobiliaria, San Pedro |
 | 14/11/2026 | @royalenfieldsannicolas | Royal Enfield San Nicolás — concesionaria de motos premium, San Nicolás |
+| 15/11/2026 | @chiquilines_inflables | Chiquilines Inflables — alquiler de inflables/juegos infantiles para eventos, San Nicolás |
+| 15/11/2026 | @iphonestore_sn | Apple Store San Nicolás (oficina privada) — service técnico y garantía Apple, San Nicolás |
+| 15/11/2026 | @taller.mecanico.f1 | Taller Mecánico F1 — mecánica general/service, San Nicolás |
+| 15/11/2026 | @melchorapadel | Melchora Padel — complejo de pádel, San Nicolás |
+| 15/11/2026 | @megara_indumentaria | Megaferia (moda circular) — canje de ropa de segunda mano, San Nicolás |
+| 15/11/2026 | @feria.amancay_ | Feria Amancay — ropa second hand, San Nicolás y Rosario |
+| 15/11/2026 | @celuslibres | Celulares Libres San Nicolás — venta de celulares liberados, San Nicolás |
+| 15/11/2026 | @perfumax_sn | Perfumax San Nicolás — perfumería y artículos de limpieza, San Nicolás |
+| 15/11/2026 | @gamecitycomicsstore | Game City Cómics Store — cómics/manga/figuras coleccionables, San Nicolás |
+| 15/11/2026 | @zapatos_sannicolas | The Best Shoes — venta online de calzado, San Nicolás/Rosario/Villa Constitución |
