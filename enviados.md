@@ -649,3 +649,13 @@
 | 15/11/2026 | @perfumax_sn | Perfumax San Nicolás — perfumería y artículos de limpieza, San Nicolás |
 | 15/11/2026 | @gamecitycomicsstore | Game City Cómics Store — cómics/manga/figuras coleccionables, San Nicolás |
 | 15/11/2026 | @zapatos_sannicolas | The Best Shoes — venta online de calzado, San Nicolás/Rosario/Villa Constitución |
+| 16/11/2026 | @depilacionmaggie | MAGGIE Depilación — depilación tradicional, San Nicolás |
+| 16/11/2026 | @byfrydstudio | By Fryd Studio — estudio de arquitectura, diseño de interiores y branding, San Nicolás |
+| 16/11/2026 | @remis_sursavio | Sur Savio Remis — remises compartidos San Nicolás-Rosario y encomiendas, San Nicolás |
+| 16/11/2026 | @pablomolina.sw | Pablo Molina Calistenia — escuela de calistenia/street workout, San Nicolás |
+| 16/11/2026 | @dogs_sn | Dogs — peluquería canina y tienda de mascotas online, San Nicolás |
+| 16/11/2026 | @mgbus_sn | MG Bus y Superbox — alquiler de superbox/bus de diversión para eventos, San Nicolás |
+| 16/11/2026 | @888_studio_ | 888 Estudio de Pilates & Wellness — reformer/hot pilates/barre, San Nicolás |
+| 16/11/2026 | @ns.libreria.papeleria | NS Librería y Papelería — librería/papelería/copistería, San Nicolás |
+| 16/11/2026 | @rayuelasn | Rayuela Ropa de Chicos — indumentaria infantil, San Nicolás |
+| 16/11/2026 | @corders_bags | Corders Bags — carteras, billeteras y mochilas, San Nicolás |
