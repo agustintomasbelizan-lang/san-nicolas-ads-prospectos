@@ -659,3 +659,13 @@
 | 16/11/2026 | @ns.libreria.papeleria | NS Librería y Papelería — librería/papelería/copistería, San Nicolás |
 | 16/11/2026 | @rayuelasn | Rayuela Ropa de Chicos — indumentaria infantil, San Nicolás |
 | 16/11/2026 | @corders_bags | Corders Bags — carteras, billeteras y mochilas, San Nicolás |
+| 17/11/2026 | @veter_sanpedro | Veterinaria (San Pedro) — veterinaria/insumos, San Pedro |
+| 17/11/2026 | @veterinariamedipets | Clínica Veterinaria Medi-Pet's — veterinaria, Baradero |
+| 17/11/2026 | @veterinariapampa | Veterinaria Pampa — veterinaria, Baradero |
+| 17/11/2026 | @nicoespinosatatuajes | Nico Espinosa Tatuajes — estudio de tatuajes, Villa Constitución |
+| 17/11/2026 | @ideal.muebleria | Ideal Mueblería — colchonería/sommiers, San Nicolás |
+| 17/11/2026 | @tulugar.indumentaria | Tu Lugar Indumentaria — indumentaria, Villa Constitución |
+| 17/11/2026 | @odontomed_baradero | Odontomed — odontología, Baradero |
+| 17/11/2026 | @de_taquito.indumentaria | De Taquito Camisetas — indumentaria online, Baradero |
+| 17/11/2026 | @bornspeluqueria | Born's Peluquería — peluquería, Baradero |
+| 17/11/2026 | @anaureliaeventos | Anaurelia Eventos — organización/decoración de eventos, San Nicolás |
