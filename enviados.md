@@ -669,3 +669,5 @@
 | 17/11/2026 | @de_taquito.indumentaria | De Taquito Camisetas — indumentaria online, Baradero |
 | 17/11/2026 | @bornspeluqueria | Born's Peluquería — peluquería, Baradero |
 | 17/11/2026 | @anaureliaeventos | Anaurelia Eventos — organización/decoración de eventos, San Nicolás |
+| 18/11/2026 | @escribania_alcorta | Escribana Mercedes Alcorta — escribanía/servicios notariales, Villa Ramallo |
+| 18/11/2026 | @optica_villa | Óptica Villa — óptica (anteojos recetados, lentes de contacto), Villa Ramallo |
