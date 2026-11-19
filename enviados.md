@@ -671,3 +671,10 @@
 | 17/11/2026 | @anaureliaeventos | Anaurelia Eventos — organización/decoración de eventos, San Nicolás |
 | 18/11/2026 | @escribania_alcorta | Escribana Mercedes Alcorta — escribanía/servicios notariales, Villa Ramallo |
 | 18/11/2026 | @optica_villa | Óptica Villa — óptica (anteojos recetados, lentes de contacto), Villa Ramallo |
+| 19/11/2026 | @amoremiosn | Amore Mío SN — perfumería de importados y maquillaje, San Nicolás |
+| 19/11/2026 | @gatoblancoboutique | Gato Blanco Boutique — vivero, agroecología y artículos para el hogar, San Nicolás |
+| 19/11/2026 | @centro.libreria | Librería Centro SN — librería, San Nicolás |
+| 19/11/2026 | @lenceriapetipe | Petipe — lencería femenina y masculina, corsetería y pijamas, San Nicolás |
+| 19/11/2026 | @freya.bc | FREYA. Cosmética en casa — skincare y cosmética a domicilio, San Nicolás |
+| 19/11/2026 | @ragazzini.accesorios | Ragazzini Accesorios — accesorios para bebés hechos a mano, San Nicolás |
+| 19/11/2026 | @velas.mc | Velas MC — velas aromáticas decorativas, San Nicolás |
