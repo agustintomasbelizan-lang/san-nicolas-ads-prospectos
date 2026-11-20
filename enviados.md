@@ -678,3 +678,13 @@
 | 19/11/2026 | @freya.bc | FREYA. Cosmética en casa — skincare y cosmética a domicilio, San Nicolás |
 | 19/11/2026 | @ragazzini.accesorios | Ragazzini Accesorios — accesorios para bebés hechos a mano, San Nicolás |
 | 19/11/2026 | @velas.mc | Velas MC — velas aromáticas decorativas, San Nicolás |
+| 20/11/2026 | @rosario_odontologia | Odontología Dra. Suárez M. del Rosario — odontología/ortodoncia, San Nicolás |
+| 20/11/2026 | @viverodelsolcyclamen | Vivero del Sol & Cyclamen — vivero boutique, florería y home deco, San Nicolás |
+| 20/11/2026 | @cervesia_theoriginofbeer | Cervêsïa — cervecería artesanal, San Nicolás |
+| 20/11/2026 | @domimenusemanal | DOMI Menú Semanal — delivery de comida casera semanal y eventos, San Nicolás |
+| 20/11/2026 | @quintasmaranatha | Quintas Maranatha — alquiler de casa quinta para eventos, San Nicolás |
+| 20/11/2026 | @sushinar_sn | Sushinar by CRICO — sushi delivery, San Nicolás |
+| 20/11/2026 | @muebleria.sn | Mueblería SN — amoblamientos, colchones y electrodomésticos, San Nicolás |
+| 20/11/2026 | @claramelo_sn | Claramelo — galletitas y golosinas al por mayor, San Nicolás |
+| 20/11/2026 | @arcillafresca | Arcilla Fresca — cerámica artesanal, San Nicolás/Rosario |
+| 20/11/2026 | @designkiar | Design Kiar (Costuras Kiari) — diseño de indumentaria y taller de costura, San Nicolás |
