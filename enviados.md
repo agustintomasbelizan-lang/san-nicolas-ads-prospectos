@@ -688,3 +688,13 @@
 | 20/11/2026 | @claramelo_sn | Claramelo — galletitas y golosinas al por mayor, San Nicolás |
 | 20/11/2026 | @arcillafresca | Arcilla Fresca — cerámica artesanal, San Nicolás/Rosario |
 | 20/11/2026 | @designkiar | Design Kiar (Costuras Kiari) — diseño de indumentaria y taller de costura, San Nicolás |
+| 21/11/2026 | @aromeri_joyas | AROMERI — joyería y relojería, Baradero |
+| 21/11/2026 | @inmobiliariamariamatti | María Matti Inmobiliaria — inmobiliaria, Baradero |
+| 21/11/2026 | @cabanas.sannicolas | Cabañas San Nicolás — alojamiento turístico (Playa Infiernillo), San Nicolás |
+| 21/11/2026 | @balconesdecamposn | Balcones de Campo — cabañas, San Nicolás |
+| 21/11/2026 | @ferregines.sp | Ferretería Ginés — ferretería, San Pedro |
+| 21/11/2026 | @tu.picada.ramallo | Tu Picada Ramallo — gastronomía/picadas, Ramallo |
+| 21/11/2026 | @estudiocarignani | Estudio Jurídico Carignani — servicios legales, Ramallo |
+| 21/11/2026 | @thecrow.makeup | The Crow Makeup — maquillaje/estética, Ramallo |
+| 21/11/2026 | @elpravillaconstitucion | ELPRA S.A. — baterías y vehículos eléctricos, Villa Constitución |
+| 21/11/2026 | @peluqueriacaninaguau | Peluquería Canina Guau — peluquería canina, San Nicolás |
