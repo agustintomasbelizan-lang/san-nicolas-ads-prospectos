@@ -698,3 +698,13 @@
 | 21/11/2026 | @thecrow.makeup | The Crow Makeup — maquillaje/estética, Ramallo |
 | 21/11/2026 | @elpravillaconstitucion | ELPRA S.A. — baterías y vehículos eléctricos, Villa Constitución |
 | 21/11/2026 | @peluqueriacaninaguau | Peluquería Canina Guau — peluquería canina, San Nicolás |
+| 22/11/2026 | @urban_beauty_nails | Urban Beauty Nails — salón de uñas/pestañas/cejas, Villa Constitución |
+| 22/11/2026 | @isapanalera | Pañalera Isa — higiene y perfumería familiar/bebés, Villa Constitución |
+| 22/11/2026 | @aguaverde_bungalows | Aguaverde San Pedro — bungalows/turismo río, San Pedro |
+| 22/11/2026 | @neonledarg | NEON LED ARG — carteles de neón/decoración/carpintería, San Nicolás |
+| 22/11/2026 | @cr_nails_art_and_lashes | CR Nails Art And Lashes — estudio de uñas, San Nicolás |
+| 22/11/2026 | @apartclub_sanpedro | Apart Club San Pedro — lofts/turismo río, San Pedro |
+| 22/11/2026 | @taurus_gym.vc | Taurus Gym — gimnasio musculación/funcional, Villa Constitución |
+| 22/11/2026 | @pross.claudio | Dr. Claudio Pross — consultorio odontológico, Villa Constitución |
+| 22/11/2026 | @divas.boutique987 | Divas Boutique — indumentaria femenina/fiesta, San Pedro |
+| 22/11/2026 | @bizcochos_pal_mate | Pal' Mate® — fábrica de bizcochos artesanales, Ramallo |
