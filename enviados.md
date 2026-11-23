@@ -708,3 +708,13 @@
 | 22/11/2026 | @pross.claudio | Dr. Claudio Pross — consultorio odontológico, Villa Constitución |
 | 22/11/2026 | @divas.boutique987 | Divas Boutique — indumentaria femenina/fiesta, San Pedro |
 | 22/11/2026 | @bizcochos_pal_mate | Pal' Mate® — fábrica de bizcochos artesanales, Ramallo |
+| 23/11/2026 | @tutto.passa_tattoo | Tutto Passa Tattoo — estudio de tatuajes, Villa Constitución |
+| 23/11/2026 | @odonto.oro | Odontología Oro — odontología integral, Baradero |
+| 23/11/2026 | @mercadodelherrero | Mercado del Herrero — ferretería/materiales siderúrgicos y seguridad electrónica, San Nicolás |
+| 23/11/2026 | @mabelbirador | Mabel Birador — ropa de bebés y moda urbana, Baradero |
+| 23/11/2026 | @verapropiedades_ | Vera Propiedades — inmobiliaria (campos/chacras/terrenos/deptos/casas), Baradero |
+| 23/11/2026 | @farmaciabraillard | Farmacia Braillard — farmacia, Baradero |
+| 23/11/2026 | @cerrajeria.penduzzu | Cerrajería Penduzzu — cerrajería, San Pedro |
+| 23/11/2026 | @remisantiguo | Remis Antiguo — agencia de remises, Baradero |
+| 23/11/2026 | @laretirada_regionales | La Retirada Artículos Regionales — talabartería/regionales, Villa Ramallo |
+| 23/11/2026 | @liclaiz.nutricion | Melina Laiz Nutrición — nutrición deportiva y clínica, San Pedro |
