@@ -718,3 +718,13 @@
 | 23/11/2026 | @remisantiguo | Remis Antiguo — agencia de remises, Baradero |
 | 23/11/2026 | @laretirada_regionales | La Retirada Artículos Regionales — talabartería/regionales, Villa Ramallo |
 | 23/11/2026 | @liclaiz.nutricion | Melina Laiz Nutrición — nutrición deportiva y clínica, San Pedro |
+| 24/11/2026 | @honda_nails | Honda Nail — estética (manicura/pedicura, uñas), San Nicolás |
+| 24/11/2026 | @cafeelecti | Café Electi — gastronomía (café de especialidad), San Nicolás |
+| 24/11/2026 | @centromedico_losarroyos | Centro Médico Los Arroyos — salud (centro médico/kinesiología), San Nicolás |
+| 24/11/2026 | @heladeriagelee | Heladería Gelée — gastronomía (heladería artesanal desde 1987), San Pedro |
+| 24/11/2026 | @peluqueriaesteticashow | Peluquería Estética Show — estética/peluquería, Baradero |
+| 24/11/2026 | @lubrimec.vc | Lubrimec — lubricentro/taller mecánico, Villa Constitución |
+| 24/11/2026 | @opsanpedro | Óptica San Pedro — óptica, San Pedro |
+| 24/11/2026 | @alpinassanpedro | Cabañas Alpinas San Pedro — turismo/alojamiento, San Pedro |
+| 24/11/2026 | @aires_de_campo_baradero | Cabañas Aires de Campo — turismo/alojamiento, Baradero |
+| 24/11/2026 | @nuestravidatattoo2 | Nuestra Vida Tattoo — estudio de tatuajes/piercing, San Pedro |
