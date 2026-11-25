@@ -728,3 +728,13 @@
 | 24/11/2026 | @alpinassanpedro | Cabañas Alpinas San Pedro — turismo/alojamiento, San Pedro |
 | 24/11/2026 | @aires_de_campo_baradero | Cabañas Aires de Campo — turismo/alojamiento, Baradero |
 | 24/11/2026 | @nuestravidatattoo2 | Nuestra Vida Tattoo — estudio de tatuajes/piercing, San Pedro |
+| 25/11/2026 | @delicias_naturales1 | Dietética Delicias Naturales — dietética/almacén saludable, Baradero |
+| 25/11/2026 | @gimnasio_theking | The King Gym — gimnasio de musculación y crossfit, Baradero |
+| 25/11/2026 | @team_sport_baradero | Team Sport Baradero — indumentaria y calzado deportivo, Baradero |
+| 25/11/2026 | @muebleriafussinato | Mueblería Fussinato — mueblería y decoración del hogar, Baradero |
+| 25/11/2026 | @micro.informatica | Micro Informática Ramallo — venta y reparación de PC/notebooks, Ramallo |
+| 25/11/2026 | @flores.constitucion | Flores Conty — florería/arreglos florales y eventos, Villa Constitución |
+| 25/11/2026 | @proins.productosortopedicos | Proins — ortopedia (plantillas, alquiler de ayudas técnicas), Villa Constitución |
+| 25/11/2026 | @gala_tattoo | Gala Tattoo — estudio de tatuajes y piercings, Ramallo |
+| 25/11/2026 | @bridge_institute_baradero | Instituto Bridge de Lengua Inglesa — academia de inglés, Baradero |
+| 25/11/2026 | @baraderotours | Baradero Tours — agencia de turismo/excursiones, Baradero |
