@@ -738,3 +738,13 @@
 | 25/11/2026 | @gala_tattoo | Gala Tattoo — estudio de tatuajes y piercings, Ramallo |
 | 25/11/2026 | @bridge_institute_baradero | Instituto Bridge de Lengua Inglesa — academia de inglés, Baradero |
 | 25/11/2026 | @baraderotours | Baradero Tours — agencia de turismo/excursiones, Baradero |
+| 26/11/2026 | @usados_sanpedro24 | San Pedro Autos Usados — concesionaria de autos/motos usados, San Pedro |
+| 26/11/2026 | @carnave_villaconstitucion | Carnave — pollería y rotisería, Villa Constitución |
+| 26/11/2026 | @rocco_automotores | Rocco Automotores — concesionaria de autos usados y 0km, Baradero |
+| 26/11/2026 | @veterinariasanroque | Veterinaria San Roque — veterinaria, Villa Constitución |
+| 26/11/2026 | @empalmevet | EmpalmeVet — veterinaria integral (cirugía/ecografía/laboratorio), Empalme Villa Constitución |
+| 26/11/2026 | @ensamble.guitarras.baradero | Ensamble de Guitarras Baradero — academia de música, Baradero |
+| 26/11/2026 | @imprenta_sanpedro | Imprenta San Pedro — imprenta/artes gráficas, San Pedro |
+| 26/11/2026 | @fotosolsanpedro | Fotosol — estudio de fotografía, San Pedro |
+| 26/11/2026 | @bpesteticayginecologia | BP Estética y Ginecología — medicina estética + ginecología, Baradero |
+| 26/11/2026 | @pdf_autoescuela | PDF Autoescuela — escuela de manejo, zona Villa Constitución/Roldán/Funes |
