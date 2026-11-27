@@ -748,3 +748,11 @@
 | 26/11/2026 | @fotosolsanpedro | Fotosol — estudio de fotografía, San Pedro |
 | 26/11/2026 | @bpesteticayginecologia | BP Estética y Ginecología — medicina estética + ginecología, Baradero |
 | 26/11/2026 | @pdf_autoescuela | PDF Autoescuela — escuela de manejo, zona Villa Constitución/Roldán/Funes |
+| 27/11/2026 | @tapiceriaempalme | Tapicería Empalme — tapicería/mueblería artesanal con fábrica propia, Empalme Villa Constitución |
+| 27/11/2026 | @los_ciruelos_padel_recreacion | Los Ciruelos Padel y Recreación — complejo de pádel y quinchos para eventos, Empalme Villa Constitución |
+| 27/11/2026 | @villadigitalvc | Villa Digital — proveedor de internet y TV por fibra óptica, Villa Constitución y Empalme Villa Constitución |
+| 27/11/2026 | @jardinpatitofeo | Jardín de Infantes Patito Feo — jardín maternal/educación inicial, San Pedro |
+| 27/11/2026 | @institutosanpedroapostol | Instituto San Pedro Apóstol — colegio privado (inicial/primario/secundario), San Pedro |
+| 27/11/2026 | @inmobiliarialarcodavila | Inmobiliaria Larco Dávila — inmobiliaria boutique (65 años de trayectoria), San Nicolás |
+| 27/11/2026 | @consultorios_de_traumatologia | CTD Consultorios de Traumatología y Medicina del Deporte — salud/traumatología deportiva, San Nicolás |
+| 27/11/2026 | @dr.juandiegoyoung | Dr. Juan Diego Young — ortopedia y traumatología, San Nicolás |
