@@ -756,3 +756,13 @@
 | 27/11/2026 | @inmobiliarialarcodavila | Inmobiliaria Larco Dávila — inmobiliaria boutique (65 años de trayectoria), San Nicolás |
 | 27/11/2026 | @consultorios_de_traumatologia | CTD Consultorios de Traumatología y Medicina del Deporte — salud/traumatología deportiva, San Nicolás |
 | 27/11/2026 | @dr.juandiegoyoung | Dr. Juan Diego Young — ortopedia y traumatología, San Nicolás |
+| 28/11/2026 | @libreriaohanaa | Librería Ohana — librería, kiosco, juguetería y regalos, San Nicolás |
+| 28/11/2026 | @opticazacutti | Óptica Zacutti — óptica, San Nicolás |
+| 28/11/2026 | @kerlinbienesraices | Kerlin Bienes Raíces — inmobiliaria boutique (loteos/terrenos), San Nicolás |
+| 28/11/2026 | @comedordemariaresto | Comedor de María Restó — parrilla y pescado de río, San Nicolás |
+| 28/11/2026 | @azulyblancovc | Azul & Blanco — librería/papelería/bazar/juguetería, Villa Constitución |
+| 28/11/2026 | @el.jordan.baradero | El Jordán — salón de fiestas infantiles, Baradero |
+| 28/11/2026 | @baraderoburger | Baradero Burger Bar — gastronomía (hamburguesas gourmet), Baradero |
+| 28/11/2026 | @airesderio.baradero | Aires de Río Baradero — gastronomía (parador costero), Baradero |
+| 28/11/2026 | @energysportsanpedro | Energy Sport San Pedro — indumentaria deportiva, San Pedro |
+| 28/11/2026 | @inspirafitness_l | Inspira Fitness — indumentaria deportiva con delivery, San Pedro |
